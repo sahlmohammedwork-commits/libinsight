@@ -31,10 +31,7 @@ With libinsight, you will find:
 
 - A specific S3 object (`libdata`) for organizing library data sets, complete
   with specialized `print`, `summary`, and `plot` methods.
-- Seven analytical functions for summarizing circulation data, generating
-  trends, ranking top circulation items, characterizing patrons, evaluating
-  collection age, creating circulation heatmaps, and automatically generating
-  text-based reports.
+- Eight exported functions for validating library circulation data, summarizing usage, generating trends, ranking top items, characterizing patrons, evaluating collection age, creating heatmaps, and generating text-based reports.
 - A built-in sample dataset (`circ_sample`) enabling immediate data exploration
   without requiring your own data source.
 
