@@ -11,7 +11,7 @@ fictional academic library. Intended for demonstrating all
 data(circ_sample)
 }
 \format{
-A \code{data.frame} with 1,200 rows and 8 variables:
+A \code{data.frame} with 480 rows and 8 variables:
 \describe{
   \item{item_id}{Character. Unique item identifier (e.g., \code{"IT001"}).}
   \item{title}{Character. Title of the library item.}
