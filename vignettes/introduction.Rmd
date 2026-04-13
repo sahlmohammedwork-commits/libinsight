@@ -1,0 +1,242 @@
+---
+title: "Introduction to libinsight"
+author: "Sahl Mohammed"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Introduction to libinsight}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment  = "#>",
+  fig.width  = 7,
+  fig.height = 4.5,
+  out.width  = "100%"
+)
+```
+
+## Overview
+
+libinsight is an R package for the analysis and visualization of academic
+library circulation statistics. For library professionals crafting an annual
+report, researchers examining information behavior, and LIS students interested
+in data analysis, libinsight provides a comprehensive suite of utilities to
+derive insights from raw circulation data.
+
+With libinsight, you will find:
+
+- A specific S3 object (`libdata`) for organizing library data sets, complete
+  with specialized `print`, `summary`, and `plot` methods.
+- Seven analytical functions for summarizing circulation data, generating
+  trends, ranking top circulation items, characterizing patrons, evaluating
+  collection age, creating circulation heatmaps, and automatically generating
+  text-based reports.
+- A built-in sample dataset (`circ_sample`) enabling immediate data exploration
+  without requiring your own data source.
+
+---
+
+## Installation
+
+Install the development version from GitHub:
+
+```r
+# install.packages("devtools")
+devtools::install_github("sahlmohammedwork-commits/libinsight")
+```
+
+Then load the package:
+
+```{r load-pkg}
+library(libinsight)
+```
+
+---
+
+## The S3 class: `libdata`
+
+All functions in `libinsight` accept either a plain `data.frame` or a
+`libdata` object. Using `libdata` is recommended because the constructor
+validates your data up front, and the S3 methods give you instant overviews.
+
+### Required columns
+
+| Column | Type | Description |
+|---|---|---|
+| `item_id` | character | Unique item identifier |
+| `title` | character | Item title |
+| `subject` | character/factor | Subject category |
+| `pub_year` | integer | Publication year |
+| `patron_type` | character/factor | Patron category |
+| `checkout_month` | integer (1–12) | Month of checkout |
+| `checkout_year` | integer | Year of checkout |
+| `checkouts` | integer | Checkout count for this row |
+
+### Creating a `libdata` object
+
+```{r create-libdata}
+data(circ_sample)        # load the built-in sample data
+ld <- libdata(circ_sample)
+class(ld)
+```
+
+### `print` method
+
+```{r print-libdata}
+print(ld)
+```
+
+### `summary` method
+
+```{r summary-libdata}
+s <- summary(ld)
+```
+
+### `plot` method
+
+The default plot shows total checkouts by subject category.
+
+```{r plot-libdata}
+plot(ld)
+```
+
+---
+
+## Analyzing circulation statistics
+
+### `summarize_circulation()`
+
+Compute total, mean, median, min, max checkouts and identify peak periods.
+
+```{r summarize}
+summarize_circulation(ld)
+```
+
+Filter to a specific year range:
+
+```{r summarize-range}
+summarize_circulation(ld, year_from = 2020, year_to = 2022)
+```
+
+---
+
+### `plot_circ_trend()`
+
+Visualize how checkout volume changes over time.
+
+```{r trend-monthly}
+plot_circ_trend(ld)
+```
+
+Switch to annual aggregation:
+
+```{r trend-annual}
+plot_circ_trend(ld, by = "year")
+```
+
+---
+
+### `top_items()`
+
+Identify the most circulated titles.
+
+```{r top-items-all}
+top_items(ld, n = 5)
+```
+
+Filter by subject or patron type:
+
+```{r top-items-filtered}
+top_items(ld, n = 5, subject = "Technology")
+top_items(ld, n = 5, patron_type = "Graduate")
+```
+
+---
+
+### `patron_stats()`
+
+Break down usage by who is checking items out.
+
+```{r patron-stats}
+ps <- patron_stats(ld)
+```
+
+---
+
+### `collection_age()`
+
+Examine whether the most-used materials are current or aging. The histogram
+is weighted by checkout count so high-circulation titles have more visual weight.
+
+```{r collection-age}
+collection_age(ld)
+```
+
+---
+
+### `lib_heatmap()`
+
+A tile heatmap reveals seasonal patterns across patron types simultaneously.
+
+```{r heatmap}
+lib_heatmap(ld)
+```
+
+---
+
+### `lib_report()`
+
+Generate a comprehensive plain-text report combining all the analyses above.
+
+```{r lib-report}
+lib_report(ld, title = "Academic Library Annual Report", top_n = 5)
+```
+
+---
+
+## Workflow example: uploading your own data
+
+If you have real circulation data in a CSV file, the typical workflow is:
+
+```r
+# 1. Read your data
+my_data <- read.csv("my_library_data.csv", stringsAsFactors = FALSE)
+
+# 2. Ensure required column names match
+# (rename if necessary)
+names(my_data)
+
+# 3. Wrap in a libdata object
+ld_real <- libdata(my_data)
+
+# 4. Run any analysis
+lib_report(ld_real, title = "My Library Report 2025")
+plot_circ_trend(ld_real, by = "year")
+top_items(ld_real, n = 10)
+```
+
+---
+
+## Package metadata
+
+| Field | Value |
+|---|---|
+| Package | libinsight |
+| Version | 1.0.0 |
+| License | GPL-2 |
+| Author | Sahl Mohammed |
+| Repository | https://github.com/sahlmohammedwork-commits/libinsight |
+| Depends | R (>= 4.0.0) |
+| Imports | ggplot2, dplyr |
+
+---
+
+## Session information
+
+```{r session-info}
+sessionInfo()
+```

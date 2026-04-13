@@ -1,0 +1,1201 @@
+item_id,title,subject,pub_year,patron_type,checkout_month,checkout_year,checkouts
+IT001,Introduction to Library Science,Reference,1995,Faculty,1,2018,6
+IT001,Introduction to Library Science,Reference,1995,Faculty,2,2018,5
+IT001,Introduction to Library Science,Reference,1995,Community,3,2018,13
+IT001,Introduction to Library Science,Reference,1995,Graduate,4,2018,3
+IT001,Introduction to Library Science,Reference,1995,Community,5,2018,8
+IT001,Introduction to Library Science,Reference,1995,Graduate,6,2018,4
+IT001,Introduction to Library Science,Reference,1995,Undergraduate,7,2018,4
+IT001,Introduction to Library Science,Reference,1995,Graduate,8,2018,3
+IT001,Introduction to Library Science,Reference,1995,Undergraduate,9,2018,1
+IT001,Introduction to Library Science,Reference,1995,Graduate,10,2018,11
+IT001,Introduction to Library Science,Reference,1995,Undergraduate,11,2018,4
+IT001,Introduction to Library Science,Reference,1995,Undergraduate,12,2018,6
+IT001,Introduction to Library Science,Reference,1995,Graduate,1,2019,1
+IT001,Introduction to Library Science,Reference,1995,Graduate,2,2019,13
+IT001,Introduction to Library Science,Reference,1995,Undergraduate,3,2019,7
+IT001,Introduction to Library Science,Reference,1995,Graduate,4,2019,11
+IT001,Introduction to Library Science,Reference,1995,Graduate,5,2019,11
+IT001,Introduction to Library Science,Reference,1995,Undergraduate,6,2019,0
+IT001,Introduction to Library Science,Reference,1995,Faculty,7,2019,5
+IT001,Introduction to Library Science,Reference,1995,Faculty,8,2019,4
+IT001,Introduction to Library Science,Reference,1995,Undergraduate,9,2019,6
+IT001,Introduction to Library Science,Reference,1995,Undergraduate,10,2019,3
+IT001,Introduction to Library Science,Reference,1995,Undergraduate,11,2019,9
+IT001,Introduction to Library Science,Reference,1995,Undergraduate,12,2019,6
+IT001,Introduction to Library Science,Reference,1995,Undergraduate,1,2020,8
+IT001,Introduction to Library Science,Reference,1995,Undergraduate,2,2020,2
+IT001,Introduction to Library Science,Reference,1995,Undergraduate,3,2020,11
+IT001,Introduction to Library Science,Reference,1995,Graduate,4,2020,10
+IT001,Introduction to Library Science,Reference,1995,Undergraduate,5,2020,1
+IT001,Introduction to Library Science,Reference,1995,Undergraduate,6,2020,6
+IT001,Introduction to Library Science,Reference,1995,Undergraduate,7,2020,3
+IT001,Introduction to Library Science,Reference,1995,Undergraduate,8,2020,7
+IT001,Introduction to Library Science,Reference,1995,Graduate,9,2020,11
+IT001,Introduction to Library Science,Reference,1995,Graduate,10,2020,10
+IT001,Introduction to Library Science,Reference,1995,Community,11,2020,12
+IT001,Introduction to Library Science,Reference,1995,Undergraduate,12,2020,3
+IT001,Introduction to Library Science,Reference,1995,Undergraduate,1,2021,10
+IT001,Introduction to Library Science,Reference,1995,Undergraduate,2,2021,8
+IT001,Introduction to Library Science,Reference,1995,Community,3,2021,11
+IT001,Introduction to Library Science,Reference,1995,Undergraduate,4,2021,3
+IT001,Introduction to Library Science,Reference,1995,Community,5,2021,9
+IT001,Introduction to Library Science,Reference,1995,Graduate,6,2021,3
+IT001,Introduction to Library Science,Reference,1995,Graduate,7,2021,5
+IT001,Introduction to Library Science,Reference,1995,Undergraduate,8,2021,8
+IT001,Introduction to Library Science,Reference,1995,Undergraduate,9,2021,10
+IT001,Introduction to Library Science,Reference,1995,Undergraduate,10,2021,3
+IT001,Introduction to Library Science,Reference,1995,Undergraduate,11,2021,10
+IT001,Introduction to Library Science,Reference,1995,Graduate,12,2021,2
+IT001,Introduction to Library Science,Reference,1995,Graduate,1,2022,8
+IT001,Introduction to Library Science,Reference,1995,Undergraduate,2,2022,8
+IT001,Introduction to Library Science,Reference,1995,Graduate,3,2022,7
+IT001,Introduction to Library Science,Reference,1995,Faculty,4,2022,6
+IT001,Introduction to Library Science,Reference,1995,Undergraduate,5,2022,9
+IT001,Introduction to Library Science,Reference,1995,Faculty,6,2022,5
+IT001,Introduction to Library Science,Reference,1995,Undergraduate,7,2022,5
+IT001,Introduction to Library Science,Reference,1995,Faculty,8,2022,3
+IT001,Introduction to Library Science,Reference,1995,Undergraduate,9,2022,1
+IT001,Introduction to Library Science,Reference,1995,Undergraduate,10,2022,12
+IT001,Introduction to Library Science,Reference,1995,Undergraduate,11,2022,3
+IT001,Introduction to Library Science,Reference,1995,Graduate,12,2022,7
+IT002,Digital Information Management,Reference,2010,Undergraduate,1,2018,12
+IT002,Digital Information Management,Reference,2010,Graduate,2,2018,4
+IT002,Digital Information Management,Reference,2010,Undergraduate,3,2018,4
+IT002,Digital Information Management,Reference,2010,Community,4,2018,9
+IT002,Digital Information Management,Reference,2010,Undergraduate,5,2018,4
+IT002,Digital Information Management,Reference,2010,Undergraduate,6,2018,8
+IT002,Digital Information Management,Reference,2010,Graduate,7,2018,2
+IT002,Digital Information Management,Reference,2010,Undergraduate,8,2018,6
+IT002,Digital Information Management,Reference,2010,Undergraduate,9,2018,10
+IT002,Digital Information Management,Reference,2010,Graduate,10,2018,11
+IT002,Digital Information Management,Reference,2010,Community,11,2018,8
+IT002,Digital Information Management,Reference,2010,Graduate,12,2018,5
+IT002,Digital Information Management,Reference,2010,Graduate,1,2019,3
+IT002,Digital Information Management,Reference,2010,Faculty,2,2019,4
+IT002,Digital Information Management,Reference,2010,Faculty,3,2019,10
+IT002,Digital Information Management,Reference,2010,Graduate,4,2019,3
+IT002,Digital Information Management,Reference,2010,Graduate,5,2019,9
+IT002,Digital Information Management,Reference,2010,Undergraduate,6,2019,4
+IT002,Digital Information Management,Reference,2010,Graduate,7,2019,5
+IT002,Digital Information Management,Reference,2010,Faculty,8,2019,6
+IT002,Digital Information Management,Reference,2010,Undergraduate,9,2019,8
+IT002,Digital Information Management,Reference,2010,Undergraduate,10,2019,3
+IT002,Digital Information Management,Reference,2010,Graduate,11,2019,8
+IT002,Digital Information Management,Reference,2010,Community,12,2019,4
+IT002,Digital Information Management,Reference,2010,Graduate,1,2020,8
+IT002,Digital Information Management,Reference,2010,Graduate,2,2020,10
+IT002,Digital Information Management,Reference,2010,Undergraduate,3,2020,8
+IT002,Digital Information Management,Reference,2010,Undergraduate,4,2020,8
+IT002,Digital Information Management,Reference,2010,Graduate,5,2020,7
+IT002,Digital Information Management,Reference,2010,Undergraduate,6,2020,2
+IT002,Digital Information Management,Reference,2010,Faculty,7,2020,6
+IT002,Digital Information Management,Reference,2010,Undergraduate,8,2020,7
+IT002,Digital Information Management,Reference,2010,Undergraduate,9,2020,2
+IT002,Digital Information Management,Reference,2010,Graduate,10,2020,4
+IT002,Digital Information Management,Reference,2010,Undergraduate,11,2020,2
+IT002,Digital Information Management,Reference,2010,Undergraduate,12,2020,9
+IT002,Digital Information Management,Reference,2010,Undergraduate,1,2021,10
+IT002,Digital Information Management,Reference,2010,Community,2,2021,11
+IT002,Digital Information Management,Reference,2010,Undergraduate,3,2021,12
+IT002,Digital Information Management,Reference,2010,Undergraduate,4,2021,6
+IT002,Digital Information Management,Reference,2010,Undergraduate,5,2021,2
+IT002,Digital Information Management,Reference,2010,Undergraduate,6,2021,4
+IT002,Digital Information Management,Reference,2010,Faculty,7,2021,6
+IT002,Digital Information Management,Reference,2010,Community,8,2021,4
+IT002,Digital Information Management,Reference,2010,Community,9,2021,6
+IT002,Digital Information Management,Reference,2010,Graduate,10,2021,9
+IT002,Digital Information Management,Reference,2010,Undergraduate,11,2021,4
+IT002,Digital Information Management,Reference,2010,Graduate,12,2021,7
+IT002,Digital Information Management,Reference,2010,Undergraduate,1,2022,5
+IT002,Digital Information Management,Reference,2010,Graduate,2,2022,6
+IT002,Digital Information Management,Reference,2010,Faculty,3,2022,12
+IT002,Digital Information Management,Reference,2010,Community,4,2022,6
+IT002,Digital Information Management,Reference,2010,Graduate,5,2022,14
+IT002,Digital Information Management,Reference,2010,Community,6,2022,3
+IT002,Digital Information Management,Reference,2010,Graduate,7,2022,1
+IT002,Digital Information Management,Reference,2010,Faculty,8,2022,5
+IT002,Digital Information Management,Reference,2010,Graduate,9,2022,4
+IT002,Digital Information Management,Reference,2010,Undergraduate,10,2022,5
+IT002,Digital Information Management,Reference,2010,Undergraduate,11,2022,4
+IT002,Digital Information Management,Reference,2010,Graduate,12,2022,6
+IT003,Research Methods in LIS,Reference,2005,Undergraduate,1,2018,4
+IT003,Research Methods in LIS,Reference,2005,Undergraduate,2,2018,6
+IT003,Research Methods in LIS,Reference,2005,Faculty,3,2018,12
+IT003,Research Methods in LIS,Reference,2005,Undergraduate,4,2018,5
+IT003,Research Methods in LIS,Reference,2005,Faculty,5,2018,12
+IT003,Research Methods in LIS,Reference,2005,Faculty,6,2018,8
+IT003,Research Methods in LIS,Reference,2005,Undergraduate,7,2018,4
+IT003,Research Methods in LIS,Reference,2005,Undergraduate,8,2018,7
+IT003,Research Methods in LIS,Reference,2005,Graduate,9,2018,4
+IT003,Research Methods in LIS,Reference,2005,Undergraduate,10,2018,3
+IT003,Research Methods in LIS,Reference,2005,Faculty,11,2018,8
+IT003,Research Methods in LIS,Reference,2005,Graduate,12,2018,6
+IT003,Research Methods in LIS,Reference,2005,Undergraduate,1,2019,12
+IT003,Research Methods in LIS,Reference,2005,Graduate,2,2019,10
+IT003,Research Methods in LIS,Reference,2005,Graduate,3,2019,4
+IT003,Research Methods in LIS,Reference,2005,Undergraduate,4,2019,1
+IT003,Research Methods in LIS,Reference,2005,Undergraduate,5,2019,8
+IT003,Research Methods in LIS,Reference,2005,Undergraduate,6,2019,7
+IT003,Research Methods in LIS,Reference,2005,Undergraduate,7,2019,5
+IT003,Research Methods in LIS,Reference,2005,Undergraduate,8,2019,3
+IT003,Research Methods in LIS,Reference,2005,Community,9,2019,12
+IT003,Research Methods in LIS,Reference,2005,Undergraduate,10,2019,14
+IT003,Research Methods in LIS,Reference,2005,Faculty,11,2019,9
+IT003,Research Methods in LIS,Reference,2005,Undergraduate,12,2019,8
+IT003,Research Methods in LIS,Reference,2005,Community,1,2020,13
+IT003,Research Methods in LIS,Reference,2005,Undergraduate,2,2020,8
+IT003,Research Methods in LIS,Reference,2005,Undergraduate,3,2020,6
+IT003,Research Methods in LIS,Reference,2005,Community,4,2020,4
+IT003,Research Methods in LIS,Reference,2005,Community,5,2020,10
+IT003,Research Methods in LIS,Reference,2005,Undergraduate,6,2020,6
+IT003,Research Methods in LIS,Reference,2005,Undergraduate,7,2020,1
+IT003,Research Methods in LIS,Reference,2005,Community,8,2020,2
+IT003,Research Methods in LIS,Reference,2005,Graduate,9,2020,5
+IT003,Research Methods in LIS,Reference,2005,Undergraduate,10,2020,1
+IT003,Research Methods in LIS,Reference,2005,Undergraduate,11,2020,5
+IT003,Research Methods in LIS,Reference,2005,Graduate,12,2020,4
+IT003,Research Methods in LIS,Reference,2005,Undergraduate,1,2021,11
+IT003,Research Methods in LIS,Reference,2005,Faculty,2,2021,3
+IT003,Research Methods in LIS,Reference,2005,Graduate,3,2021,8
+IT003,Research Methods in LIS,Reference,2005,Graduate,4,2021,2
+IT003,Research Methods in LIS,Reference,2005,Graduate,5,2021,8
+IT003,Research Methods in LIS,Reference,2005,Undergraduate,6,2021,3
+IT003,Research Methods in LIS,Reference,2005,Faculty,7,2021,2
+IT003,Research Methods in LIS,Reference,2005,Graduate,8,2021,4
+IT003,Research Methods in LIS,Reference,2005,Faculty,9,2021,7
+IT003,Research Methods in LIS,Reference,2005,Graduate,10,2021,12
+IT003,Research Methods in LIS,Reference,2005,Graduate,11,2021,1
+IT003,Research Methods in LIS,Reference,2005,Graduate,12,2021,2
+IT003,Research Methods in LIS,Reference,2005,Undergraduate,1,2022,9
+IT003,Research Methods in LIS,Reference,2005,Graduate,2,2022,3
+IT003,Research Methods in LIS,Reference,2005,Graduate,3,2022,10
+IT003,Research Methods in LIS,Reference,2005,Faculty,4,2022,4
+IT003,Research Methods in LIS,Reference,2005,Community,5,2022,11
+IT003,Research Methods in LIS,Reference,2005,Graduate,6,2022,6
+IT003,Research Methods in LIS,Reference,2005,Undergraduate,7,2022,7
+IT003,Research Methods in LIS,Reference,2005,Graduate,8,2022,3
+IT003,Research Methods in LIS,Reference,2005,Undergraduate,9,2022,8
+IT003,Research Methods in LIS,Reference,2005,Undergraduate,10,2022,4
+IT003,Research Methods in LIS,Reference,2005,Graduate,11,2022,3
+IT003,Research Methods in LIS,Reference,2005,Graduate,12,2022,2
+IT004,Cataloging and Classification,Reference,2018,Graduate,1,2018,8
+IT004,Cataloging and Classification,Reference,2018,Undergraduate,2,2018,6
+IT004,Cataloging and Classification,Reference,2018,Community,3,2018,9
+IT004,Cataloging and Classification,Reference,2018,Undergraduate,4,2018,4
+IT004,Cataloging and Classification,Reference,2018,Graduate,5,2018,4
+IT004,Cataloging and Classification,Reference,2018,Community,6,2018,5
+IT004,Cataloging and Classification,Reference,2018,Undergraduate,7,2018,7
+IT004,Cataloging and Classification,Reference,2018,Undergraduate,8,2018,4
+IT004,Cataloging and Classification,Reference,2018,Undergraduate,9,2018,10
+IT004,Cataloging and Classification,Reference,2018,Undergraduate,10,2018,7
+IT004,Cataloging and Classification,Reference,2018,Faculty,11,2018,2
+IT004,Cataloging and Classification,Reference,2018,Undergraduate,12,2018,5
+IT004,Cataloging and Classification,Reference,2018,Faculty,1,2019,9
+IT004,Cataloging and Classification,Reference,2018,Graduate,2,2019,12
+IT004,Cataloging and Classification,Reference,2018,Graduate,3,2019,10
+IT004,Cataloging and Classification,Reference,2018,Community,4,2019,11
+IT004,Cataloging and Classification,Reference,2018,Graduate,5,2019,12
+IT004,Cataloging and Classification,Reference,2018,Undergraduate,6,2019,5
+IT004,Cataloging and Classification,Reference,2018,Graduate,7,2019,3
+IT004,Cataloging and Classification,Reference,2018,Undergraduate,8,2019,6
+IT004,Cataloging and Classification,Reference,2018,Graduate,9,2019,10
+IT004,Cataloging and Classification,Reference,2018,Graduate,10,2019,10
+IT004,Cataloging and Classification,Reference,2018,Community,11,2019,5
+IT004,Cataloging and Classification,Reference,2018,Graduate,12,2019,3
+IT004,Cataloging and Classification,Reference,2018,Undergraduate,1,2020,9
+IT004,Cataloging and Classification,Reference,2018,Undergraduate,2,2020,6
+IT004,Cataloging and Classification,Reference,2018,Undergraduate,3,2020,11
+IT004,Cataloging and Classification,Reference,2018,Graduate,4,2020,9
+IT004,Cataloging and Classification,Reference,2018,Community,5,2020,3
+IT004,Cataloging and Classification,Reference,2018,Undergraduate,6,2020,1
+IT004,Cataloging and Classification,Reference,2018,Faculty,7,2020,2
+IT004,Cataloging and Classification,Reference,2018,Graduate,8,2020,7
+IT004,Cataloging and Classification,Reference,2018,Undergraduate,9,2020,11
+IT004,Cataloging and Classification,Reference,2018,Graduate,10,2020,4
+IT004,Cataloging and Classification,Reference,2018,Graduate,11,2020,2
+IT004,Cataloging and Classification,Reference,2018,Undergraduate,12,2020,3
+IT004,Cataloging and Classification,Reference,2018,Graduate,1,2021,10
+IT004,Cataloging and Classification,Reference,2018,Undergraduate,2,2021,8
+IT004,Cataloging and Classification,Reference,2018,Undergraduate,3,2021,9
+IT004,Cataloging and Classification,Reference,2018,Undergraduate,4,2021,8
+IT004,Cataloging and Classification,Reference,2018,Undergraduate,5,2021,2
+IT004,Cataloging and Classification,Reference,2018,Graduate,6,2021,3
+IT004,Cataloging and Classification,Reference,2018,Undergraduate,7,2021,2
+IT004,Cataloging and Classification,Reference,2018,Undergraduate,8,2021,2
+IT004,Cataloging and Classification,Reference,2018,Undergraduate,9,2021,3
+IT004,Cataloging and Classification,Reference,2018,Undergraduate,10,2021,11
+IT004,Cataloging and Classification,Reference,2018,Graduate,11,2021,10
+IT004,Cataloging and Classification,Reference,2018,Faculty,12,2021,5
+IT004,Cataloging and Classification,Reference,2018,Faculty,1,2022,9
+IT004,Cataloging and Classification,Reference,2018,Graduate,2,2022,11
+IT004,Cataloging and Classification,Reference,2018,Graduate,3,2022,3
+IT004,Cataloging and Classification,Reference,2018,Faculty,4,2022,4
+IT004,Cataloging and Classification,Reference,2018,Undergraduate,5,2022,3
+IT004,Cataloging and Classification,Reference,2018,Community,6,2022,6
+IT004,Cataloging and Classification,Reference,2018,Graduate,7,2022,5
+IT004,Cataloging and Classification,Reference,2018,Undergraduate,8,2022,6
+IT004,Cataloging and Classification,Reference,2018,Undergraduate,9,2022,14
+IT004,Cataloging and Classification,Reference,2018,Undergraduate,10,2022,12
+IT004,Cataloging and Classification,Reference,2018,Undergraduate,11,2022,12
+IT004,Cataloging and Classification,Reference,2018,Undergraduate,12,2022,14
+IT005,Information Architecture,Technology,2015,Undergraduate,1,2018,5
+IT005,Information Architecture,Technology,2015,Graduate,2,2018,8
+IT005,Information Architecture,Technology,2015,Faculty,3,2018,1
+IT005,Information Architecture,Technology,2015,Undergraduate,4,2018,10
+IT005,Information Architecture,Technology,2015,Undergraduate,5,2018,5
+IT005,Information Architecture,Technology,2015,Graduate,6,2018,5
+IT005,Information Architecture,Technology,2015,Graduate,7,2018,3
+IT005,Information Architecture,Technology,2015,Graduate,8,2018,2
+IT005,Information Architecture,Technology,2015,Graduate,9,2018,12
+IT005,Information Architecture,Technology,2015,Faculty,10,2018,8
+IT005,Information Architecture,Technology,2015,Graduate,11,2018,8
+IT005,Information Architecture,Technology,2015,Graduate,12,2018,4
+IT005,Information Architecture,Technology,2015,Graduate,1,2019,11
+IT005,Information Architecture,Technology,2015,Faculty,2,2019,3
+IT005,Information Architecture,Technology,2015,Undergraduate,3,2019,10
+IT005,Information Architecture,Technology,2015,Undergraduate,4,2019,5
+IT005,Information Architecture,Technology,2015,Faculty,5,2019,11
+IT005,Information Architecture,Technology,2015,Community,6,2019,4
+IT005,Information Architecture,Technology,2015,Undergraduate,7,2019,8
+IT005,Information Architecture,Technology,2015,Undergraduate,8,2019,0
+IT005,Information Architecture,Technology,2015,Undergraduate,9,2019,5
+IT005,Information Architecture,Technology,2015,Undergraduate,10,2019,9
+IT005,Information Architecture,Technology,2015,Undergraduate,11,2019,10
+IT005,Information Architecture,Technology,2015,Undergraduate,12,2019,7
+IT005,Information Architecture,Technology,2015,Community,1,2020,9
+IT005,Information Architecture,Technology,2015,Graduate,2,2020,9
+IT005,Information Architecture,Technology,2015,Undergraduate,3,2020,3
+IT005,Information Architecture,Technology,2015,Faculty,4,2020,10
+IT005,Information Architecture,Technology,2015,Undergraduate,5,2020,5
+IT005,Information Architecture,Technology,2015,Graduate,6,2020,5
+IT005,Information Architecture,Technology,2015,Undergraduate,7,2020,3
+IT005,Information Architecture,Technology,2015,Faculty,8,2020,2
+IT005,Information Architecture,Technology,2015,Undergraduate,9,2020,12
+IT005,Information Architecture,Technology,2015,Undergraduate,10,2020,2
+IT005,Information Architecture,Technology,2015,Graduate,11,2020,14
+IT005,Information Architecture,Technology,2015,Graduate,12,2020,9
+IT005,Information Architecture,Technology,2015,Community,1,2021,3
+IT005,Information Architecture,Technology,2015,Graduate,2,2021,8
+IT005,Information Architecture,Technology,2015,Faculty,3,2021,6
+IT005,Information Architecture,Technology,2015,Undergraduate,4,2021,4
+IT005,Information Architecture,Technology,2015,Graduate,5,2021,8
+IT005,Information Architecture,Technology,2015,Graduate,6,2021,2
+IT005,Information Architecture,Technology,2015,Undergraduate,7,2021,6
+IT005,Information Architecture,Technology,2015,Graduate,8,2021,8
+IT005,Information Architecture,Technology,2015,Faculty,9,2021,12
+IT005,Information Architecture,Technology,2015,Undergraduate,10,2021,2
+IT005,Information Architecture,Technology,2015,Graduate,11,2021,3
+IT005,Information Architecture,Technology,2015,Faculty,12,2021,5
+IT005,Information Architecture,Technology,2015,Graduate,1,2022,8
+IT005,Information Architecture,Technology,2015,Undergraduate,2,2022,2
+IT005,Information Architecture,Technology,2015,Undergraduate,3,2022,12
+IT005,Information Architecture,Technology,2015,Community,4,2022,10
+IT005,Information Architecture,Technology,2015,Graduate,5,2022,12
+IT005,Information Architecture,Technology,2015,Undergraduate,6,2022,4
+IT005,Information Architecture,Technology,2015,Undergraduate,7,2022,0
+IT005,Information Architecture,Technology,2015,Graduate,8,2022,2
+IT005,Information Architecture,Technology,2015,Community,9,2022,11
+IT005,Information Architecture,Technology,2015,Undergraduate,10,2022,4
+IT005,Information Architecture,Technology,2015,Undergraduate,11,2022,10
+IT005,Information Architecture,Technology,2015,Undergraduate,12,2022,12
+IT006,Data Science for Librarians,Technology,2019,Community,1,2018,9
+IT006,Data Science for Librarians,Technology,2019,Graduate,2,2018,5
+IT006,Data Science for Librarians,Technology,2019,Graduate,3,2018,4
+IT006,Data Science for Librarians,Technology,2019,Graduate,4,2018,2
+IT006,Data Science for Librarians,Technology,2019,Undergraduate,5,2018,10
+IT006,Data Science for Librarians,Technology,2019,Undergraduate,6,2018,4
+IT006,Data Science for Librarians,Technology,2019,Community,7,2018,3
+IT006,Data Science for Librarians,Technology,2019,Faculty,8,2018,7
+IT006,Data Science for Librarians,Technology,2019,Graduate,9,2018,6
+IT006,Data Science for Librarians,Technology,2019,Undergraduate,10,2018,8
+IT006,Data Science for Librarians,Technology,2019,Community,11,2018,9
+IT006,Data Science for Librarians,Technology,2019,Faculty,12,2018,6
+IT006,Data Science for Librarians,Technology,2019,Faculty,1,2019,5
+IT006,Data Science for Librarians,Technology,2019,Community,2,2019,6
+IT006,Data Science for Librarians,Technology,2019,Undergraduate,3,2019,2
+IT006,Data Science for Librarians,Technology,2019,Undergraduate,4,2019,4
+IT006,Data Science for Librarians,Technology,2019,Graduate,5,2019,10
+IT006,Data Science for Librarians,Technology,2019,Undergraduate,6,2019,5
+IT006,Data Science for Librarians,Technology,2019,Undergraduate,7,2019,7
+IT006,Data Science for Librarians,Technology,2019,Undergraduate,8,2019,7
+IT006,Data Science for Librarians,Technology,2019,Faculty,9,2019,4
+IT006,Data Science for Librarians,Technology,2019,Undergraduate,10,2019,2
+IT006,Data Science for Librarians,Technology,2019,Undergraduate,11,2019,3
+IT006,Data Science for Librarians,Technology,2019,Undergraduate,12,2019,4
+IT006,Data Science for Librarians,Technology,2019,Faculty,1,2020,8
+IT006,Data Science for Librarians,Technology,2019,Graduate,2,2020,6
+IT006,Data Science for Librarians,Technology,2019,Community,3,2020,3
+IT006,Data Science for Librarians,Technology,2019,Undergraduate,4,2020,13
+IT006,Data Science for Librarians,Technology,2019,Community,5,2020,8
+IT006,Data Science for Librarians,Technology,2019,Undergraduate,6,2020,4
+IT006,Data Science for Librarians,Technology,2019,Graduate,7,2020,6
+IT006,Data Science for Librarians,Technology,2019,Graduate,8,2020,4
+IT006,Data Science for Librarians,Technology,2019,Undergraduate,9,2020,9
+IT006,Data Science for Librarians,Technology,2019,Undergraduate,10,2020,4
+IT006,Data Science for Librarians,Technology,2019,Undergraduate,11,2020,6
+IT006,Data Science for Librarians,Technology,2019,Community,12,2020,9
+IT006,Data Science for Librarians,Technology,2019,Graduate,1,2021,7
+IT006,Data Science for Librarians,Technology,2019,Undergraduate,2,2021,8
+IT006,Data Science for Librarians,Technology,2019,Undergraduate,3,2021,11
+IT006,Data Science for Librarians,Technology,2019,Undergraduate,4,2021,3
+IT006,Data Science for Librarians,Technology,2019,Graduate,5,2021,14
+IT006,Data Science for Librarians,Technology,2019,Undergraduate,6,2021,5
+IT006,Data Science for Librarians,Technology,2019,Community,7,2021,6
+IT006,Data Science for Librarians,Technology,2019,Undergraduate,8,2021,7
+IT006,Data Science for Librarians,Technology,2019,Undergraduate,9,2021,9
+IT006,Data Science for Librarians,Technology,2019,Undergraduate,10,2021,3
+IT006,Data Science for Librarians,Technology,2019,Undergraduate,11,2021,5
+IT006,Data Science for Librarians,Technology,2019,Graduate,12,2021,10
+IT006,Data Science for Librarians,Technology,2019,Undergraduate,1,2022,7
+IT006,Data Science for Librarians,Technology,2019,Graduate,2,2022,6
+IT006,Data Science for Librarians,Technology,2019,Undergraduate,3,2022,11
+IT006,Data Science for Librarians,Technology,2019,Community,4,2022,2
+IT006,Data Science for Librarians,Technology,2019,Undergraduate,5,2022,9
+IT006,Data Science for Librarians,Technology,2019,Graduate,6,2022,6
+IT006,Data Science for Librarians,Technology,2019,Undergraduate,7,2022,4
+IT006,Data Science for Librarians,Technology,2019,Undergraduate,8,2022,2
+IT006,Data Science for Librarians,Technology,2019,Community,9,2022,10
+IT006,Data Science for Librarians,Technology,2019,Undergraduate,10,2022,4
+IT006,Data Science for Librarians,Technology,2019,Undergraduate,11,2022,9
+IT006,Data Science for Librarians,Technology,2019,Graduate,12,2022,2
+IT007,Knowledge Organization,Technology,2021,Undergraduate,1,2018,4
+IT007,Knowledge Organization,Technology,2021,Graduate,2,2018,5
+IT007,Knowledge Organization,Technology,2021,Graduate,3,2018,10
+IT007,Knowledge Organization,Technology,2021,Graduate,4,2018,5
+IT007,Knowledge Organization,Technology,2021,Undergraduate,5,2018,11
+IT007,Knowledge Organization,Technology,2021,Faculty,6,2018,4
+IT007,Knowledge Organization,Technology,2021,Faculty,7,2018,4
+IT007,Knowledge Organization,Technology,2021,Graduate,8,2018,8
+IT007,Knowledge Organization,Technology,2021,Undergraduate,9,2018,3
+IT007,Knowledge Organization,Technology,2021,Undergraduate,10,2018,11
+IT007,Knowledge Organization,Technology,2021,Undergraduate,11,2018,11
+IT007,Knowledge Organization,Technology,2021,Undergraduate,12,2018,5
+IT007,Knowledge Organization,Technology,2021,Faculty,1,2019,13
+IT007,Knowledge Organization,Technology,2021,Undergraduate,2,2019,5
+IT007,Knowledge Organization,Technology,2021,Undergraduate,3,2019,4
+IT007,Knowledge Organization,Technology,2021,Community,4,2019,14
+IT007,Knowledge Organization,Technology,2021,Undergraduate,5,2019,7
+IT007,Knowledge Organization,Technology,2021,Graduate,6,2019,7
+IT007,Knowledge Organization,Technology,2021,Undergraduate,7,2019,4
+IT007,Knowledge Organization,Technology,2021,Community,8,2019,4
+IT007,Knowledge Organization,Technology,2021,Graduate,9,2019,6
+IT007,Knowledge Organization,Technology,2021,Undergraduate,10,2019,8
+IT007,Knowledge Organization,Technology,2021,Graduate,11,2019,4
+IT007,Knowledge Organization,Technology,2021,Graduate,12,2019,9
+IT007,Knowledge Organization,Technology,2021,Graduate,1,2020,3
+IT007,Knowledge Organization,Technology,2021,Undergraduate,2,2020,4
+IT007,Knowledge Organization,Technology,2021,Faculty,3,2020,4
+IT007,Knowledge Organization,Technology,2021,Graduate,4,2020,9
+IT007,Knowledge Organization,Technology,2021,Faculty,5,2020,6
+IT007,Knowledge Organization,Technology,2021,Graduate,6,2020,6
+IT007,Knowledge Organization,Technology,2021,Undergraduate,7,2020,6
+IT007,Knowledge Organization,Technology,2021,Undergraduate,8,2020,3
+IT007,Knowledge Organization,Technology,2021,Undergraduate,9,2020,5
+IT007,Knowledge Organization,Technology,2021,Graduate,10,2020,10
+IT007,Knowledge Organization,Technology,2021,Undergraduate,11,2020,5
+IT007,Knowledge Organization,Technology,2021,Undergraduate,12,2020,10
+IT007,Knowledge Organization,Technology,2021,Undergraduate,1,2021,12
+IT007,Knowledge Organization,Technology,2021,Undergraduate,2,2021,8
+IT007,Knowledge Organization,Technology,2021,Community,3,2021,11
+IT007,Knowledge Organization,Technology,2021,Graduate,4,2021,5
+IT007,Knowledge Organization,Technology,2021,Graduate,5,2021,12
+IT007,Knowledge Organization,Technology,2021,Graduate,6,2021,1
+IT007,Knowledge Organization,Technology,2021,Undergraduate,7,2021,4
+IT007,Knowledge Organization,Technology,2021,Undergraduate,8,2021,8
+IT007,Knowledge Organization,Technology,2021,Undergraduate,9,2021,10
+IT007,Knowledge Organization,Technology,2021,Undergraduate,10,2021,5
+IT007,Knowledge Organization,Technology,2021,Undergraduate,11,2021,10
+IT007,Knowledge Organization,Technology,2021,Graduate,12,2021,4
+IT007,Knowledge Organization,Technology,2021,Community,1,2022,11
+IT007,Knowledge Organization,Technology,2021,Undergraduate,2,2022,9
+IT007,Knowledge Organization,Technology,2021,Undergraduate,3,2022,3
+IT007,Knowledge Organization,Technology,2021,Undergraduate,4,2022,1
+IT007,Knowledge Organization,Technology,2021,Faculty,5,2022,9
+IT007,Knowledge Organization,Technology,2021,Undergraduate,6,2022,5
+IT007,Knowledge Organization,Technology,2021,Undergraduate,7,2022,2
+IT007,Knowledge Organization,Technology,2021,Graduate,8,2022,3
+IT007,Knowledge Organization,Technology,2021,Faculty,9,2022,12
+IT007,Knowledge Organization,Technology,2021,Undergraduate,10,2022,4
+IT007,Knowledge Organization,Technology,2021,Faculty,11,2022,3
+IT007,Knowledge Organization,Technology,2021,Graduate,12,2022,9
+IT008,Academic Library Services,Technology,2022,Graduate,1,2018,3
+IT008,Academic Library Services,Technology,2022,Undergraduate,2,2018,14
+IT008,Academic Library Services,Technology,2022,Undergraduate,3,2018,10
+IT008,Academic Library Services,Technology,2022,Graduate,4,2018,6
+IT008,Academic Library Services,Technology,2022,Undergraduate,5,2018,6
+IT008,Academic Library Services,Technology,2022,Undergraduate,6,2018,4
+IT008,Academic Library Services,Technology,2022,Undergraduate,7,2018,6
+IT008,Academic Library Services,Technology,2022,Undergraduate,8,2018,3
+IT008,Academic Library Services,Technology,2022,Undergraduate,9,2018,4
+IT008,Academic Library Services,Technology,2022,Faculty,10,2018,5
+IT008,Academic Library Services,Technology,2022,Undergraduate,11,2018,9
+IT008,Academic Library Services,Technology,2022,Faculty,12,2018,4
+IT008,Academic Library Services,Technology,2022,Community,1,2019,5
+IT008,Academic Library Services,Technology,2022,Undergraduate,2,2019,6
+IT008,Academic Library Services,Technology,2022,Community,3,2019,10
+IT008,Academic Library Services,Technology,2022,Undergraduate,4,2019,11
+IT008,Academic Library Services,Technology,2022,Graduate,5,2019,7
+IT008,Academic Library Services,Technology,2022,Undergraduate,6,2019,4
+IT008,Academic Library Services,Technology,2022,Community,7,2019,3
+IT008,Academic Library Services,Technology,2022,Undergraduate,8,2019,8
+IT008,Academic Library Services,Technology,2022,Graduate,9,2019,11
+IT008,Academic Library Services,Technology,2022,Undergraduate,10,2019,4
+IT008,Academic Library Services,Technology,2022,Undergraduate,11,2019,4
+IT008,Academic Library Services,Technology,2022,Graduate,12,2019,5
+IT008,Academic Library Services,Technology,2022,Faculty,1,2020,9
+IT008,Academic Library Services,Technology,2022,Faculty,2,2020,2
+IT008,Academic Library Services,Technology,2022,Undergraduate,3,2020,8
+IT008,Academic Library Services,Technology,2022,Community,4,2020,3
+IT008,Academic Library Services,Technology,2022,Graduate,5,2020,3
+IT008,Academic Library Services,Technology,2022,Undergraduate,6,2020,4
+IT008,Academic Library Services,Technology,2022,Undergraduate,7,2020,5
+IT008,Academic Library Services,Technology,2022,Graduate,8,2020,2
+IT008,Academic Library Services,Technology,2022,Graduate,9,2020,3
+IT008,Academic Library Services,Technology,2022,Undergraduate,10,2020,11
+IT008,Academic Library Services,Technology,2022,Community,11,2020,3
+IT008,Academic Library Services,Technology,2022,Undergraduate,12,2020,2
+IT008,Academic Library Services,Technology,2022,Undergraduate,1,2021,12
+IT008,Academic Library Services,Technology,2022,Graduate,2,2021,8
+IT008,Academic Library Services,Technology,2022,Graduate,3,2021,2
+IT008,Academic Library Services,Technology,2022,Community,4,2021,3
+IT008,Academic Library Services,Technology,2022,Faculty,5,2021,10
+IT008,Academic Library Services,Technology,2022,Undergraduate,6,2021,5
+IT008,Academic Library Services,Technology,2022,Undergraduate,7,2021,2
+IT008,Academic Library Services,Technology,2022,Graduate,8,2021,8
+IT008,Academic Library Services,Technology,2022,Faculty,9,2021,11
+IT008,Academic Library Services,Technology,2022,Faculty,10,2021,13
+IT008,Academic Library Services,Technology,2022,Graduate,11,2021,10
+IT008,Academic Library Services,Technology,2022,Undergraduate,12,2021,10
+IT008,Academic Library Services,Technology,2022,Community,1,2022,3
+IT008,Academic Library Services,Technology,2022,Community,2,2022,3
+IT008,Academic Library Services,Technology,2022,Graduate,3,2022,10
+IT008,Academic Library Services,Technology,2022,Undergraduate,4,2022,8
+IT008,Academic Library Services,Technology,2022,Undergraduate,5,2022,5
+IT008,Academic Library Services,Technology,2022,Community,6,2022,0
+IT008,Academic Library Services,Technology,2022,Graduate,7,2022,0
+IT008,Academic Library Services,Technology,2022,Faculty,8,2022,7
+IT008,Academic Library Services,Technology,2022,Undergraduate,9,2022,7
+IT008,Academic Library Services,Technology,2022,Faculty,10,2022,3
+IT008,Academic Library Services,Technology,2022,Community,11,2022,8
+IT008,Academic Library Services,Technology,2022,Undergraduate,12,2022,11
+IT009,Special Collections Management,History,1990,Undergraduate,1,2018,3
+IT009,Special Collections Management,History,1990,Undergraduate,2,2018,9
+IT009,Special Collections Management,History,1990,Graduate,3,2018,9
+IT009,Special Collections Management,History,1990,Undergraduate,4,2018,8
+IT009,Special Collections Management,History,1990,Graduate,5,2018,14
+IT009,Special Collections Management,History,1990,Community,6,2018,2
+IT009,Special Collections Management,History,1990,Community,7,2018,6
+IT009,Special Collections Management,History,1990,Community,8,2018,4
+IT009,Special Collections Management,History,1990,Undergraduate,9,2018,10
+IT009,Special Collections Management,History,1990,Community,10,2018,9
+IT009,Special Collections Management,History,1990,Undergraduate,11,2018,11
+IT009,Special Collections Management,History,1990,Graduate,12,2018,11
+IT009,Special Collections Management,History,1990,Undergraduate,1,2019,8
+IT009,Special Collections Management,History,1990,Graduate,2,2019,13
+IT009,Special Collections Management,History,1990,Faculty,3,2019,5
+IT009,Special Collections Management,History,1990,Faculty,4,2019,7
+IT009,Special Collections Management,History,1990,Faculty,5,2019,7
+IT009,Special Collections Management,History,1990,Community,6,2019,1
+IT009,Special Collections Management,History,1990,Graduate,7,2019,6
+IT009,Special Collections Management,History,1990,Community,8,2019,5
+IT009,Special Collections Management,History,1990,Undergraduate,9,2019,10
+IT009,Special Collections Management,History,1990,Graduate,10,2019,2
+IT009,Special Collections Management,History,1990,Graduate,11,2019,3
+IT009,Special Collections Management,History,1990,Community,12,2019,5
+IT009,Special Collections Management,History,1990,Undergraduate,1,2020,3
+IT009,Special Collections Management,History,1990,Faculty,2,2020,8
+IT009,Special Collections Management,History,1990,Faculty,3,2020,1
+IT009,Special Collections Management,History,1990,Faculty,4,2020,5
+IT009,Special Collections Management,History,1990,Community,5,2020,11
+IT009,Special Collections Management,History,1990,Graduate,6,2020,3
+IT009,Special Collections Management,History,1990,Undergraduate,7,2020,2
+IT009,Special Collections Management,History,1990,Graduate,8,2020,3
+IT009,Special Collections Management,History,1990,Undergraduate,9,2020,5
+IT009,Special Collections Management,History,1990,Undergraduate,10,2020,10
+IT009,Special Collections Management,History,1990,Undergraduate,11,2020,3
+IT009,Special Collections Management,History,1990,Undergraduate,12,2020,9
+IT009,Special Collections Management,History,1990,Community,1,2021,7
+IT009,Special Collections Management,History,1990,Graduate,2,2021,14
+IT009,Special Collections Management,History,1990,Undergraduate,3,2021,3
+IT009,Special Collections Management,History,1990,Community,4,2021,9
+IT009,Special Collections Management,History,1990,Graduate,5,2021,2
+IT009,Special Collections Management,History,1990,Community,6,2021,1
+IT009,Special Collections Management,History,1990,Undergraduate,7,2021,5
+IT009,Special Collections Management,History,1990,Faculty,8,2021,1
+IT009,Special Collections Management,History,1990,Graduate,9,2021,3
+IT009,Special Collections Management,History,1990,Undergraduate,10,2021,11
+IT009,Special Collections Management,History,1990,Undergraduate,11,2021,9
+IT009,Special Collections Management,History,1990,Undergraduate,12,2021,12
+IT009,Special Collections Management,History,1990,Community,1,2022,2
+IT009,Special Collections Management,History,1990,Graduate,2,2022,1
+IT009,Special Collections Management,History,1990,Undergraduate,3,2022,12
+IT009,Special Collections Management,History,1990,Undergraduate,4,2022,7
+IT009,Special Collections Management,History,1990,Graduate,5,2022,8
+IT009,Special Collections Management,History,1990,Undergraduate,6,2022,4
+IT009,Special Collections Management,History,1990,Graduate,7,2022,2
+IT009,Special Collections Management,History,1990,Community,8,2022,7
+IT009,Special Collections Management,History,1990,Graduate,9,2022,8
+IT009,Special Collections Management,History,1990,Graduate,10,2022,10
+IT009,Special Collections Management,History,1990,Undergraduate,11,2022,2
+IT009,Special Collections Management,History,1990,Graduate,12,2022,1
+IT010,Metadata Standards and Practice,History,2000,Graduate,1,2018,9
+IT010,Metadata Standards and Practice,History,2000,Graduate,2,2018,10
+IT010,Metadata Standards and Practice,History,2000,Undergraduate,3,2018,7
+IT010,Metadata Standards and Practice,History,2000,Undergraduate,4,2018,2
+IT010,Metadata Standards and Practice,History,2000,Graduate,5,2018,7
+IT010,Metadata Standards and Practice,History,2000,Graduate,6,2018,4
+IT010,Metadata Standards and Practice,History,2000,Graduate,7,2018,1
+IT010,Metadata Standards and Practice,History,2000,Graduate,8,2018,4
+IT010,Metadata Standards and Practice,History,2000,Undergraduate,9,2018,4
+IT010,Metadata Standards and Practice,History,2000,Graduate,10,2018,5
+IT010,Metadata Standards and Practice,History,2000,Graduate,11,2018,5
+IT010,Metadata Standards and Practice,History,2000,Undergraduate,12,2018,4
+IT010,Metadata Standards and Practice,History,2000,Graduate,1,2019,4
+IT010,Metadata Standards and Practice,History,2000,Faculty,2,2019,8
+IT010,Metadata Standards and Practice,History,2000,Undergraduate,3,2019,3
+IT010,Metadata Standards and Practice,History,2000,Graduate,4,2019,11
+IT010,Metadata Standards and Practice,History,2000,Undergraduate,5,2019,10
+IT010,Metadata Standards and Practice,History,2000,Faculty,6,2019,7
+IT010,Metadata Standards and Practice,History,2000,Undergraduate,7,2019,4
+IT010,Metadata Standards and Practice,History,2000,Community,8,2019,4
+IT010,Metadata Standards and Practice,History,2000,Undergraduate,9,2019,10
+IT010,Metadata Standards and Practice,History,2000,Undergraduate,10,2019,8
+IT010,Metadata Standards and Practice,History,2000,Graduate,11,2019,7
+IT010,Metadata Standards and Practice,History,2000,Undergraduate,12,2019,6
+IT010,Metadata Standards and Practice,History,2000,Graduate,1,2020,4
+IT010,Metadata Standards and Practice,History,2000,Graduate,2,2020,4
+IT010,Metadata Standards and Practice,History,2000,Undergraduate,3,2020,14
+IT010,Metadata Standards and Practice,History,2000,Graduate,4,2020,5
+IT010,Metadata Standards and Practice,History,2000,Graduate,5,2020,9
+IT010,Metadata Standards and Practice,History,2000,Undergraduate,6,2020,5
+IT010,Metadata Standards and Practice,History,2000,Community,7,2020,3
+IT010,Metadata Standards and Practice,History,2000,Graduate,8,2020,6
+IT010,Metadata Standards and Practice,History,2000,Graduate,9,2020,2
+IT010,Metadata Standards and Practice,History,2000,Graduate,10,2020,4
+IT010,Metadata Standards and Practice,History,2000,Graduate,11,2020,8
+IT010,Metadata Standards and Practice,History,2000,Graduate,12,2020,14
+IT010,Metadata Standards and Practice,History,2000,Community,1,2021,7
+IT010,Metadata Standards and Practice,History,2000,Undergraduate,2,2021,5
+IT010,Metadata Standards and Practice,History,2000,Undergraduate,3,2021,9
+IT010,Metadata Standards and Practice,History,2000,Graduate,4,2021,10
+IT010,Metadata Standards and Practice,History,2000,Undergraduate,5,2021,12
+IT010,Metadata Standards and Practice,History,2000,Undergraduate,6,2021,0
+IT010,Metadata Standards and Practice,History,2000,Faculty,7,2021,8
+IT010,Metadata Standards and Practice,History,2000,Graduate,8,2021,0
+IT010,Metadata Standards and Practice,History,2000,Undergraduate,9,2021,11
+IT010,Metadata Standards and Practice,History,2000,Community,10,2021,2
+IT010,Metadata Standards and Practice,History,2000,Undergraduate,11,2021,1
+IT010,Metadata Standards and Practice,History,2000,Graduate,12,2021,11
+IT010,Metadata Standards and Practice,History,2000,Faculty,1,2022,2
+IT010,Metadata Standards and Practice,History,2000,Undergraduate,2,2022,5
+IT010,Metadata Standards and Practice,History,2000,Graduate,3,2022,11
+IT010,Metadata Standards and Practice,History,2000,Undergraduate,4,2022,11
+IT010,Metadata Standards and Practice,History,2000,Graduate,5,2022,11
+IT010,Metadata Standards and Practice,History,2000,Community,6,2022,1
+IT010,Metadata Standards and Practice,History,2000,Undergraduate,7,2022,6
+IT010,Metadata Standards and Practice,History,2000,Undergraduate,8,2022,4
+IT010,Metadata Standards and Practice,History,2000,Graduate,9,2022,11
+IT010,Metadata Standards and Practice,History,2000,Faculty,10,2022,5
+IT010,Metadata Standards and Practice,History,2000,Graduate,11,2022,8
+IT010,Metadata Standards and Practice,History,2000,Graduate,12,2022,5
+IT011,Information Retrieval Systems,History,2008,Graduate,1,2018,2
+IT011,Information Retrieval Systems,History,2008,Undergraduate,2,2018,11
+IT011,Information Retrieval Systems,History,2008,Undergraduate,3,2018,4
+IT011,Information Retrieval Systems,History,2008,Undergraduate,4,2018,2
+IT011,Information Retrieval Systems,History,2008,Community,5,2018,5
+IT011,Information Retrieval Systems,History,2008,Undergraduate,6,2018,5
+IT011,Information Retrieval Systems,History,2008,Faculty,7,2018,2
+IT011,Information Retrieval Systems,History,2008,Graduate,8,2018,7
+IT011,Information Retrieval Systems,History,2008,Faculty,9,2018,14
+IT011,Information Retrieval Systems,History,2008,Faculty,10,2018,13
+IT011,Information Retrieval Systems,History,2008,Community,11,2018,7
+IT011,Information Retrieval Systems,History,2008,Graduate,12,2018,10
+IT011,Information Retrieval Systems,History,2008,Graduate,1,2019,10
+IT011,Information Retrieval Systems,History,2008,Graduate,2,2019,7
+IT011,Information Retrieval Systems,History,2008,Graduate,3,2019,6
+IT011,Information Retrieval Systems,History,2008,Undergraduate,4,2019,8
+IT011,Information Retrieval Systems,History,2008,Graduate,5,2019,4
+IT011,Information Retrieval Systems,History,2008,Community,6,2019,5
+IT011,Information Retrieval Systems,History,2008,Community,7,2019,7
+IT011,Information Retrieval Systems,History,2008,Community,8,2019,3
+IT011,Information Retrieval Systems,History,2008,Graduate,9,2019,11
+IT011,Information Retrieval Systems,History,2008,Undergraduate,10,2019,2
+IT011,Information Retrieval Systems,History,2008,Graduate,11,2019,5
+IT011,Information Retrieval Systems,History,2008,Undergraduate,12,2019,11
+IT011,Information Retrieval Systems,History,2008,Graduate,1,2020,10
+IT011,Information Retrieval Systems,History,2008,Graduate,2,2020,9
+IT011,Information Retrieval Systems,History,2008,Graduate,3,2020,5
+IT011,Information Retrieval Systems,History,2008,Community,4,2020,8
+IT011,Information Retrieval Systems,History,2008,Community,5,2020,4
+IT011,Information Retrieval Systems,History,2008,Undergraduate,6,2020,0
+IT011,Information Retrieval Systems,History,2008,Graduate,7,2020,5
+IT011,Information Retrieval Systems,History,2008,Undergraduate,8,2020,3
+IT011,Information Retrieval Systems,History,2008,Undergraduate,9,2020,3
+IT011,Information Retrieval Systems,History,2008,Undergraduate,10,2020,3
+IT011,Information Retrieval Systems,History,2008,Undergraduate,11,2020,3
+IT011,Information Retrieval Systems,History,2008,Community,12,2020,13
+IT011,Information Retrieval Systems,History,2008,Undergraduate,1,2021,12
+IT011,Information Retrieval Systems,History,2008,Graduate,2,2021,10
+IT011,Information Retrieval Systems,History,2008,Graduate,3,2021,2
+IT011,Information Retrieval Systems,History,2008,Undergraduate,4,2021,3
+IT011,Information Retrieval Systems,History,2008,Graduate,5,2021,6
+IT011,Information Retrieval Systems,History,2008,Faculty,6,2021,5
+IT011,Information Retrieval Systems,History,2008,Undergraduate,7,2021,1
+IT011,Information Retrieval Systems,History,2008,Undergraduate,8,2021,1
+IT011,Information Retrieval Systems,History,2008,Undergraduate,9,2021,14
+IT011,Information Retrieval Systems,History,2008,Faculty,10,2021,10
+IT011,Information Retrieval Systems,History,2008,Faculty,11,2021,11
+IT011,Information Retrieval Systems,History,2008,Graduate,12,2021,3
+IT011,Information Retrieval Systems,History,2008,Faculty,1,2022,4
+IT011,Information Retrieval Systems,History,2008,Undergraduate,2,2022,8
+IT011,Information Retrieval Systems,History,2008,Community,3,2022,12
+IT011,Information Retrieval Systems,History,2008,Undergraduate,4,2022,2
+IT011,Information Retrieval Systems,History,2008,Undergraduate,5,2022,8
+IT011,Information Retrieval Systems,History,2008,Graduate,6,2022,8
+IT011,Information Retrieval Systems,History,2008,Undergraduate,7,2022,5
+IT011,Information Retrieval Systems,History,2008,Undergraduate,8,2022,5
+IT011,Information Retrieval Systems,History,2008,Undergraduate,9,2022,10
+IT011,Information Retrieval Systems,History,2008,Graduate,10,2022,3
+IT011,Information Retrieval Systems,History,2008,Undergraduate,11,2022,4
+IT011,Information Retrieval Systems,History,2008,Faculty,12,2022,11
+IT012,Open Access and Scholarly Communication,Science,2012,Undergraduate,1,2018,6
+IT012,Open Access and Scholarly Communication,Science,2012,Community,2,2018,10
+IT012,Open Access and Scholarly Communication,Science,2012,Graduate,3,2018,5
+IT012,Open Access and Scholarly Communication,Science,2012,Undergraduate,4,2018,10
+IT012,Open Access and Scholarly Communication,Science,2012,Graduate,5,2018,12
+IT012,Open Access and Scholarly Communication,Science,2012,Undergraduate,6,2018,4
+IT012,Open Access and Scholarly Communication,Science,2012,Undergraduate,7,2018,5
+IT012,Open Access and Scholarly Communication,Science,2012,Community,8,2018,7
+IT012,Open Access and Scholarly Communication,Science,2012,Undergraduate,9,2018,11
+IT012,Open Access and Scholarly Communication,Science,2012,Undergraduate,10,2018,7
+IT012,Open Access and Scholarly Communication,Science,2012,Graduate,11,2018,8
+IT012,Open Access and Scholarly Communication,Science,2012,Community,12,2018,10
+IT012,Open Access and Scholarly Communication,Science,2012,Undergraduate,1,2019,4
+IT012,Open Access and Scholarly Communication,Science,2012,Graduate,2,2019,8
+IT012,Open Access and Scholarly Communication,Science,2012,Community,3,2019,10
+IT012,Open Access and Scholarly Communication,Science,2012,Undergraduate,4,2019,6
+IT012,Open Access and Scholarly Communication,Science,2012,Community,5,2019,3
+IT012,Open Access and Scholarly Communication,Science,2012,Faculty,6,2019,5
+IT012,Open Access and Scholarly Communication,Science,2012,Undergraduate,7,2019,1
+IT012,Open Access and Scholarly Communication,Science,2012,Graduate,8,2019,3
+IT012,Open Access and Scholarly Communication,Science,2012,Undergraduate,9,2019,4
+IT012,Open Access and Scholarly Communication,Science,2012,Graduate,10,2019,13
+IT012,Open Access and Scholarly Communication,Science,2012,Undergraduate,11,2019,9
+IT012,Open Access and Scholarly Communication,Science,2012,Graduate,12,2019,3
+IT012,Open Access and Scholarly Communication,Science,2012,Undergraduate,1,2020,5
+IT012,Open Access and Scholarly Communication,Science,2012,Undergraduate,2,2020,11
+IT012,Open Access and Scholarly Communication,Science,2012,Faculty,3,2020,14
+IT012,Open Access and Scholarly Communication,Science,2012,Graduate,4,2020,10
+IT012,Open Access and Scholarly Communication,Science,2012,Undergraduate,5,2020,12
+IT012,Open Access and Scholarly Communication,Science,2012,Undergraduate,6,2020,7
+IT012,Open Access and Scholarly Communication,Science,2012,Graduate,7,2020,5
+IT012,Open Access and Scholarly Communication,Science,2012,Undergraduate,8,2020,4
+IT012,Open Access and Scholarly Communication,Science,2012,Faculty,9,2020,12
+IT012,Open Access and Scholarly Communication,Science,2012,Graduate,10,2020,13
+IT012,Open Access and Scholarly Communication,Science,2012,Undergraduate,11,2020,8
+IT012,Open Access and Scholarly Communication,Science,2012,Graduate,12,2020,10
+IT012,Open Access and Scholarly Communication,Science,2012,Community,1,2021,14
+IT012,Open Access and Scholarly Communication,Science,2012,Undergraduate,2,2021,11
+IT012,Open Access and Scholarly Communication,Science,2012,Community,3,2021,4
+IT012,Open Access and Scholarly Communication,Science,2012,Graduate,4,2021,7
+IT012,Open Access and Scholarly Communication,Science,2012,Undergraduate,5,2021,10
+IT012,Open Access and Scholarly Communication,Science,2012,Graduate,6,2021,3
+IT012,Open Access and Scholarly Communication,Science,2012,Faculty,7,2021,7
+IT012,Open Access and Scholarly Communication,Science,2012,Graduate,8,2021,6
+IT012,Open Access and Scholarly Communication,Science,2012,Undergraduate,9,2021,2
+IT012,Open Access and Scholarly Communication,Science,2012,Community,10,2021,5
+IT012,Open Access and Scholarly Communication,Science,2012,Undergraduate,11,2021,4
+IT012,Open Access and Scholarly Communication,Science,2012,Undergraduate,12,2021,6
+IT012,Open Access and Scholarly Communication,Science,2012,Graduate,1,2022,6
+IT012,Open Access and Scholarly Communication,Science,2012,Community,2,2022,9
+IT012,Open Access and Scholarly Communication,Science,2012,Faculty,3,2022,3
+IT012,Open Access and Scholarly Communication,Science,2012,Graduate,4,2022,10
+IT012,Open Access and Scholarly Communication,Science,2012,Graduate,5,2022,4
+IT012,Open Access and Scholarly Communication,Science,2012,Undergraduate,6,2022,5
+IT012,Open Access and Scholarly Communication,Science,2012,Undergraduate,7,2022,7
+IT012,Open Access and Scholarly Communication,Science,2012,Undergraduate,8,2022,2
+IT012,Open Access and Scholarly Communication,Science,2012,Undergraduate,9,2022,11
+IT012,Open Access and Scholarly Communication,Science,2012,Undergraduate,10,2022,11
+IT012,Open Access and Scholarly Communication,Science,2012,Undergraduate,11,2022,9
+IT012,Open Access and Scholarly Communication,Science,2012,Faculty,12,2022,2
+IT013,Library Leadership and Management,Science,2017,Graduate,1,2018,5
+IT013,Library Leadership and Management,Science,2017,Undergraduate,2,2018,8
+IT013,Library Leadership and Management,Science,2017,Undergraduate,3,2018,6
+IT013,Library Leadership and Management,Science,2017,Graduate,4,2018,8
+IT013,Library Leadership and Management,Science,2017,Undergraduate,5,2018,2
+IT013,Library Leadership and Management,Science,2017,Undergraduate,6,2018,2
+IT013,Library Leadership and Management,Science,2017,Graduate,7,2018,3
+IT013,Library Leadership and Management,Science,2017,Undergraduate,8,2018,4
+IT013,Library Leadership and Management,Science,2017,Graduate,9,2018,12
+IT013,Library Leadership and Management,Science,2017,Graduate,10,2018,9
+IT013,Library Leadership and Management,Science,2017,Undergraduate,11,2018,7
+IT013,Library Leadership and Management,Science,2017,Graduate,12,2018,10
+IT013,Library Leadership and Management,Science,2017,Faculty,1,2019,9
+IT013,Library Leadership and Management,Science,2017,Graduate,2,2019,2
+IT013,Library Leadership and Management,Science,2017,Faculty,3,2019,8
+IT013,Library Leadership and Management,Science,2017,Undergraduate,4,2019,12
+IT013,Library Leadership and Management,Science,2017,Graduate,5,2019,2
+IT013,Library Leadership and Management,Science,2017,Undergraduate,6,2019,3
+IT013,Library Leadership and Management,Science,2017,Undergraduate,7,2019,2
+IT013,Library Leadership and Management,Science,2017,Graduate,8,2019,7
+IT013,Library Leadership and Management,Science,2017,Undergraduate,9,2019,7
+IT013,Library Leadership and Management,Science,2017,Graduate,10,2019,7
+IT013,Library Leadership and Management,Science,2017,Undergraduate,11,2019,2
+IT013,Library Leadership and Management,Science,2017,Faculty,12,2019,7
+IT013,Library Leadership and Management,Science,2017,Graduate,1,2020,10
+IT013,Library Leadership and Management,Science,2017,Graduate,2,2020,8
+IT013,Library Leadership and Management,Science,2017,Graduate,3,2020,4
+IT013,Library Leadership and Management,Science,2017,Undergraduate,4,2020,10
+IT013,Library Leadership and Management,Science,2017,Graduate,5,2020,5
+IT013,Library Leadership and Management,Science,2017,Undergraduate,6,2020,1
+IT013,Library Leadership and Management,Science,2017,Graduate,7,2020,6
+IT013,Library Leadership and Management,Science,2017,Graduate,8,2020,1
+IT013,Library Leadership and Management,Science,2017,Graduate,9,2020,11
+IT013,Library Leadership and Management,Science,2017,Undergraduate,10,2020,1
+IT013,Library Leadership and Management,Science,2017,Faculty,11,2020,3
+IT013,Library Leadership and Management,Science,2017,Undergraduate,12,2020,12
+IT013,Library Leadership and Management,Science,2017,Undergraduate,1,2021,8
+IT013,Library Leadership and Management,Science,2017,Undergraduate,2,2021,3
+IT013,Library Leadership and Management,Science,2017,Undergraduate,3,2021,8
+IT013,Library Leadership and Management,Science,2017,Undergraduate,4,2021,4
+IT013,Library Leadership and Management,Science,2017,Undergraduate,5,2021,3
+IT013,Library Leadership and Management,Science,2017,Undergraduate,6,2021,5
+IT013,Library Leadership and Management,Science,2017,Faculty,7,2021,4
+IT013,Library Leadership and Management,Science,2017,Graduate,8,2021,5
+IT013,Library Leadership and Management,Science,2017,Undergraduate,9,2021,7
+IT013,Library Leadership and Management,Science,2017,Undergraduate,10,2021,8
+IT013,Library Leadership and Management,Science,2017,Graduate,11,2021,9
+IT013,Library Leadership and Management,Science,2017,Undergraduate,12,2021,2
+IT013,Library Leadership and Management,Science,2017,Faculty,1,2022,4
+IT013,Library Leadership and Management,Science,2017,Community,2,2022,10
+IT013,Library Leadership and Management,Science,2017,Undergraduate,3,2022,10
+IT013,Library Leadership and Management,Science,2017,Community,4,2022,14
+IT013,Library Leadership and Management,Science,2017,Faculty,5,2022,11
+IT013,Library Leadership and Management,Science,2017,Undergraduate,6,2022,3
+IT013,Library Leadership and Management,Science,2017,Undergraduate,7,2022,4
+IT013,Library Leadership and Management,Science,2017,Graduate,8,2022,8
+IT013,Library Leadership and Management,Science,2017,Graduate,9,2022,10
+IT013,Library Leadership and Management,Science,2017,Community,10,2022,2
+IT013,Library Leadership and Management,Science,2017,Undergraduate,11,2022,10
+IT013,Library Leadership and Management,Science,2017,Undergraduate,12,2022,11
+IT014,Archives and Records Management,Science,2020,Undergraduate,1,2018,10
+IT014,Archives and Records Management,Science,2020,Community,2,2018,11
+IT014,Archives and Records Management,Science,2020,Faculty,3,2018,11
+IT014,Archives and Records Management,Science,2020,Undergraduate,4,2018,5
+IT014,Archives and Records Management,Science,2020,Undergraduate,5,2018,10
+IT014,Archives and Records Management,Science,2020,Graduate,6,2018,7
+IT014,Archives and Records Management,Science,2020,Faculty,7,2018,3
+IT014,Archives and Records Management,Science,2020,Community,8,2018,5
+IT014,Archives and Records Management,Science,2020,Community,9,2018,2
+IT014,Archives and Records Management,Science,2020,Graduate,10,2018,11
+IT014,Archives and Records Management,Science,2020,Faculty,11,2018,10
+IT014,Archives and Records Management,Science,2020,Undergraduate,12,2018,1
+IT014,Archives and Records Management,Science,2020,Undergraduate,1,2019,6
+IT014,Archives and Records Management,Science,2020,Graduate,2,2019,2
+IT014,Archives and Records Management,Science,2020,Undergraduate,3,2019,8
+IT014,Archives and Records Management,Science,2020,Graduate,4,2019,10
+IT014,Archives and Records Management,Science,2020,Undergraduate,5,2019,11
+IT014,Archives and Records Management,Science,2020,Undergraduate,6,2019,2
+IT014,Archives and Records Management,Science,2020,Undergraduate,7,2019,2
+IT014,Archives and Records Management,Science,2020,Undergraduate,8,2019,5
+IT014,Archives and Records Management,Science,2020,Graduate,9,2019,4
+IT014,Archives and Records Management,Science,2020,Community,10,2019,10
+IT014,Archives and Records Management,Science,2020,Graduate,11,2019,1
+IT014,Archives and Records Management,Science,2020,Graduate,12,2019,5
+IT014,Archives and Records Management,Science,2020,Faculty,1,2020,5
+IT014,Archives and Records Management,Science,2020,Graduate,2,2020,10
+IT014,Archives and Records Management,Science,2020,Undergraduate,3,2020,4
+IT014,Archives and Records Management,Science,2020,Faculty,4,2020,5
+IT014,Archives and Records Management,Science,2020,Community,5,2020,4
+IT014,Archives and Records Management,Science,2020,Graduate,6,2020,5
+IT014,Archives and Records Management,Science,2020,Undergraduate,7,2020,0
+IT014,Archives and Records Management,Science,2020,Undergraduate,8,2020,8
+IT014,Archives and Records Management,Science,2020,Faculty,9,2020,9
+IT014,Archives and Records Management,Science,2020,Community,10,2020,4
+IT014,Archives and Records Management,Science,2020,Graduate,11,2020,4
+IT014,Archives and Records Management,Science,2020,Graduate,12,2020,8
+IT014,Archives and Records Management,Science,2020,Undergraduate,1,2021,9
+IT014,Archives and Records Management,Science,2020,Graduate,2,2021,4
+IT014,Archives and Records Management,Science,2020,Faculty,3,2021,5
+IT014,Archives and Records Management,Science,2020,Graduate,4,2021,9
+IT014,Archives and Records Management,Science,2020,Faculty,5,2021,3
+IT014,Archives and Records Management,Science,2020,Graduate,6,2021,3
+IT014,Archives and Records Management,Science,2020,Faculty,7,2021,3
+IT014,Archives and Records Management,Science,2020,Undergraduate,8,2021,4
+IT014,Archives and Records Management,Science,2020,Undergraduate,9,2021,8
+IT014,Archives and Records Management,Science,2020,Graduate,10,2021,5
+IT014,Archives and Records Management,Science,2020,Graduate,11,2021,6
+IT014,Archives and Records Management,Science,2020,Graduate,12,2021,12
+IT014,Archives and Records Management,Science,2020,Graduate,1,2022,8
+IT014,Archives and Records Management,Science,2020,Undergraduate,2,2022,7
+IT014,Archives and Records Management,Science,2020,Graduate,3,2022,1
+IT014,Archives and Records Management,Science,2020,Undergraduate,4,2022,8
+IT014,Archives and Records Management,Science,2020,Community,5,2022,4
+IT014,Archives and Records Management,Science,2020,Graduate,6,2022,3
+IT014,Archives and Records Management,Science,2020,Undergraduate,7,2022,5
+IT014,Archives and Records Management,Science,2020,Graduate,8,2022,5
+IT014,Archives and Records Management,Science,2020,Undergraduate,9,2022,4
+IT014,Archives and Records Management,Science,2020,Undergraduate,10,2022,7
+IT014,Archives and Records Management,Science,2020,Community,11,2022,5
+IT014,Archives and Records Management,Science,2020,Graduate,12,2022,3
+IT015,User Experience in Libraries,Literature,1985,Faculty,1,2018,2
+IT015,User Experience in Libraries,Literature,1985,Faculty,2,2018,5
+IT015,User Experience in Libraries,Literature,1985,Graduate,3,2018,12
+IT015,User Experience in Libraries,Literature,1985,Faculty,4,2018,11
+IT015,User Experience in Libraries,Literature,1985,Undergraduate,5,2018,6
+IT015,User Experience in Libraries,Literature,1985,Faculty,6,2018,3
+IT015,User Experience in Libraries,Literature,1985,Community,7,2018,4
+IT015,User Experience in Libraries,Literature,1985,Undergraduate,8,2018,4
+IT015,User Experience in Libraries,Literature,1985,Undergraduate,9,2018,9
+IT015,User Experience in Libraries,Literature,1985,Undergraduate,10,2018,14
+IT015,User Experience in Libraries,Literature,1985,Undergraduate,11,2018,2
+IT015,User Experience in Libraries,Literature,1985,Undergraduate,12,2018,7
+IT015,User Experience in Libraries,Literature,1985,Undergraduate,1,2019,13
+IT015,User Experience in Libraries,Literature,1985,Graduate,2,2019,11
+IT015,User Experience in Libraries,Literature,1985,Undergraduate,3,2019,2
+IT015,User Experience in Libraries,Literature,1985,Graduate,4,2019,10
+IT015,User Experience in Libraries,Literature,1985,Undergraduate,5,2019,6
+IT015,User Experience in Libraries,Literature,1985,Undergraduate,6,2019,6
+IT015,User Experience in Libraries,Literature,1985,Graduate,7,2019,6
+IT015,User Experience in Libraries,Literature,1985,Undergraduate,8,2019,7
+IT015,User Experience in Libraries,Literature,1985,Graduate,9,2019,6
+IT015,User Experience in Libraries,Literature,1985,Community,10,2019,2
+IT015,User Experience in Libraries,Literature,1985,Undergraduate,11,2019,2
+IT015,User Experience in Libraries,Literature,1985,Graduate,12,2019,7
+IT015,User Experience in Libraries,Literature,1985,Faculty,1,2020,6
+IT015,User Experience in Libraries,Literature,1985,Graduate,2,2020,10
+IT015,User Experience in Libraries,Literature,1985,Undergraduate,3,2020,3
+IT015,User Experience in Libraries,Literature,1985,Undergraduate,4,2020,2
+IT015,User Experience in Libraries,Literature,1985,Graduate,5,2020,2
+IT015,User Experience in Libraries,Literature,1985,Undergraduate,6,2020,7
+IT015,User Experience in Libraries,Literature,1985,Faculty,7,2020,1
+IT015,User Experience in Libraries,Literature,1985,Graduate,8,2020,5
+IT015,User Experience in Libraries,Literature,1985,Faculty,9,2020,2
+IT015,User Experience in Libraries,Literature,1985,Graduate,10,2020,1
+IT015,User Experience in Libraries,Literature,1985,Undergraduate,11,2020,4
+IT015,User Experience in Libraries,Literature,1985,Faculty,12,2020,8
+IT015,User Experience in Libraries,Literature,1985,Graduate,1,2021,13
+IT015,User Experience in Libraries,Literature,1985,Graduate,2,2021,9
+IT015,User Experience in Libraries,Literature,1985,Faculty,3,2021,7
+IT015,User Experience in Libraries,Literature,1985,Faculty,4,2021,4
+IT015,User Experience in Libraries,Literature,1985,Undergraduate,5,2021,10
+IT015,User Experience in Libraries,Literature,1985,Community,6,2021,3
+IT015,User Experience in Libraries,Literature,1985,Faculty,7,2021,8
+IT015,User Experience in Libraries,Literature,1985,Graduate,8,2021,8
+IT015,User Experience in Libraries,Literature,1985,Undergraduate,9,2021,4
+IT015,User Experience in Libraries,Literature,1985,Undergraduate,10,2021,9
+IT015,User Experience in Libraries,Literature,1985,Graduate,11,2021,2
+IT015,User Experience in Libraries,Literature,1985,Graduate,12,2021,3
+IT015,User Experience in Libraries,Literature,1985,Graduate,1,2022,13
+IT015,User Experience in Libraries,Literature,1985,Undergraduate,2,2022,2
+IT015,User Experience in Libraries,Literature,1985,Undergraduate,3,2022,9
+IT015,User Experience in Libraries,Literature,1985,Faculty,4,2022,8
+IT015,User Experience in Libraries,Literature,1985,Graduate,5,2022,6
+IT015,User Experience in Libraries,Literature,1985,Undergraduate,6,2022,4
+IT015,User Experience in Libraries,Literature,1985,Undergraduate,7,2022,2
+IT015,User Experience in Libraries,Literature,1985,Undergraduate,8,2022,4
+IT015,User Experience in Libraries,Literature,1985,Community,9,2022,7
+IT015,User Experience in Libraries,Literature,1985,Graduate,10,2022,9
+IT015,User Experience in Libraries,Literature,1985,Graduate,11,2022,8
+IT015,User Experience in Libraries,Literature,1985,Faculty,12,2022,5
+IT016,History of Books and Libraries,Literature,1998,Undergraduate,1,2018,8
+IT016,History of Books and Libraries,Literature,1998,Undergraduate,2,2018,3
+IT016,History of Books and Libraries,Literature,1998,Undergraduate,3,2018,2
+IT016,History of Books and Libraries,Literature,1998,Graduate,4,2018,1
+IT016,History of Books and Libraries,Literature,1998,Undergraduate,5,2018,5
+IT016,History of Books and Libraries,Literature,1998,Undergraduate,6,2018,3
+IT016,History of Books and Libraries,Literature,1998,Graduate,7,2018,5
+IT016,History of Books and Libraries,Literature,1998,Undergraduate,8,2018,2
+IT016,History of Books and Libraries,Literature,1998,Graduate,9,2018,4
+IT016,History of Books and Libraries,Literature,1998,Graduate,10,2018,10
+IT016,History of Books and Libraries,Literature,1998,Undergraduate,11,2018,13
+IT016,History of Books and Libraries,Literature,1998,Undergraduate,12,2018,8
+IT016,History of Books and Libraries,Literature,1998,Undergraduate,1,2019,3
+IT016,History of Books and Libraries,Literature,1998,Undergraduate,2,2019,10
+IT016,History of Books and Libraries,Literature,1998,Undergraduate,3,2019,7
+IT016,History of Books and Libraries,Literature,1998,Faculty,4,2019,8
+IT016,History of Books and Libraries,Literature,1998,Undergraduate,5,2019,9
+IT016,History of Books and Libraries,Literature,1998,Undergraduate,6,2019,8
+IT016,History of Books and Libraries,Literature,1998,Undergraduate,7,2019,7
+IT016,History of Books and Libraries,Literature,1998,Faculty,8,2019,8
+IT016,History of Books and Libraries,Literature,1998,Graduate,9,2019,8
+IT016,History of Books and Libraries,Literature,1998,Faculty,10,2019,12
+IT016,History of Books and Libraries,Literature,1998,Graduate,11,2019,4
+IT016,History of Books and Libraries,Literature,1998,Graduate,12,2019,7
+IT016,History of Books and Libraries,Literature,1998,Faculty,1,2020,4
+IT016,History of Books and Libraries,Literature,1998,Undergraduate,2,2020,13
+IT016,History of Books and Libraries,Literature,1998,Undergraduate,3,2020,7
+IT016,History of Books and Libraries,Literature,1998,Undergraduate,4,2020,5
+IT016,History of Books and Libraries,Literature,1998,Undergraduate,5,2020,10
+IT016,History of Books and Libraries,Literature,1998,Undergraduate,6,2020,5
+IT016,History of Books and Libraries,Literature,1998,Undergraduate,7,2020,3
+IT016,History of Books and Libraries,Literature,1998,Undergraduate,8,2020,2
+IT016,History of Books and Libraries,Literature,1998,Undergraduate,9,2020,1
+IT016,History of Books and Libraries,Literature,1998,Graduate,10,2020,5
+IT016,History of Books and Libraries,Literature,1998,Undergraduate,11,2020,12
+IT016,History of Books and Libraries,Literature,1998,Undergraduate,12,2020,4
+IT016,History of Books and Libraries,Literature,1998,Community,1,2021,9
+IT016,History of Books and Libraries,Literature,1998,Undergraduate,2,2021,4
+IT016,History of Books and Libraries,Literature,1998,Undergraduate,3,2021,4
+IT016,History of Books and Libraries,Literature,1998,Undergraduate,4,2021,12
+IT016,History of Books and Libraries,Literature,1998,Undergraduate,5,2021,3
+IT016,History of Books and Libraries,Literature,1998,Undergraduate,6,2021,7
+IT016,History of Books and Libraries,Literature,1998,Undergraduate,7,2021,2
+IT016,History of Books and Libraries,Literature,1998,Undergraduate,8,2021,7
+IT016,History of Books and Libraries,Literature,1998,Undergraduate,9,2021,8
+IT016,History of Books and Libraries,Literature,1998,Faculty,10,2021,2
+IT016,History of Books and Libraries,Literature,1998,Undergraduate,11,2021,8
+IT016,History of Books and Libraries,Literature,1998,Undergraduate,12,2021,11
+IT016,History of Books and Libraries,Literature,1998,Undergraduate,1,2022,8
+IT016,History of Books and Libraries,Literature,1998,Undergraduate,2,2022,5
+IT016,History of Books and Libraries,Literature,1998,Community,3,2022,7
+IT016,History of Books and Libraries,Literature,1998,Graduate,4,2022,7
+IT016,History of Books and Libraries,Literature,1998,Community,5,2022,13
+IT016,History of Books and Libraries,Literature,1998,Graduate,6,2022,7
+IT016,History of Books and Libraries,Literature,1998,Undergraduate,7,2022,6
+IT016,History of Books and Libraries,Literature,1998,Undergraduate,8,2022,1
+IT016,History of Books and Libraries,Literature,1998,Faculty,9,2022,3
+IT016,History of Books and Libraries,Literature,1998,Undergraduate,10,2022,3
+IT016,History of Books and Libraries,Literature,1998,Faculty,11,2022,11
+IT016,History of Books and Libraries,Literature,1998,Undergraduate,12,2022,6
+IT017,Social Sciences Research,Literature,2003,Undergraduate,1,2018,5
+IT017,Social Sciences Research,Literature,2003,Graduate,2,2018,7
+IT017,Social Sciences Research,Literature,2003,Undergraduate,3,2018,2
+IT017,Social Sciences Research,Literature,2003,Undergraduate,4,2018,12
+IT017,Social Sciences Research,Literature,2003,Graduate,5,2018,3
+IT017,Social Sciences Research,Literature,2003,Graduate,6,2018,2
+IT017,Social Sciences Research,Literature,2003,Graduate,7,2018,6
+IT017,Social Sciences Research,Literature,2003,Undergraduate,8,2018,2
+IT017,Social Sciences Research,Literature,2003,Undergraduate,9,2018,11
+IT017,Social Sciences Research,Literature,2003,Faculty,10,2018,5
+IT017,Social Sciences Research,Literature,2003,Faculty,11,2018,10
+IT017,Social Sciences Research,Literature,2003,Undergraduate,12,2018,4
+IT017,Social Sciences Research,Literature,2003,Undergraduate,1,2019,12
+IT017,Social Sciences Research,Literature,2003,Graduate,2,2019,2
+IT017,Social Sciences Research,Literature,2003,Community,3,2019,13
+IT017,Social Sciences Research,Literature,2003,Undergraduate,4,2019,3
+IT017,Social Sciences Research,Literature,2003,Community,5,2019,5
+IT017,Social Sciences Research,Literature,2003,Undergraduate,6,2019,3
+IT017,Social Sciences Research,Literature,2003,Undergraduate,7,2019,8
+IT017,Social Sciences Research,Literature,2003,Graduate,8,2019,1
+IT017,Social Sciences Research,Literature,2003,Community,9,2019,8
+IT017,Social Sciences Research,Literature,2003,Community,10,2019,10
+IT017,Social Sciences Research,Literature,2003,Faculty,11,2019,4
+IT017,Social Sciences Research,Literature,2003,Community,12,2019,3
+IT017,Social Sciences Research,Literature,2003,Graduate,1,2020,4
+IT017,Social Sciences Research,Literature,2003,Graduate,2,2020,14
+IT017,Social Sciences Research,Literature,2003,Graduate,3,2020,10
+IT017,Social Sciences Research,Literature,2003,Undergraduate,4,2020,13
+IT017,Social Sciences Research,Literature,2003,Faculty,5,2020,11
+IT017,Social Sciences Research,Literature,2003,Graduate,6,2020,3
+IT017,Social Sciences Research,Literature,2003,Community,7,2020,7
+IT017,Social Sciences Research,Literature,2003,Graduate,8,2020,6
+IT017,Social Sciences Research,Literature,2003,Graduate,9,2020,11
+IT017,Social Sciences Research,Literature,2003,Undergraduate,10,2020,10
+IT017,Social Sciences Research,Literature,2003,Undergraduate,11,2020,3
+IT017,Social Sciences Research,Literature,2003,Faculty,12,2020,3
+IT017,Social Sciences Research,Literature,2003,Community,1,2021,4
+IT017,Social Sciences Research,Literature,2003,Undergraduate,2,2021,7
+IT017,Social Sciences Research,Literature,2003,Undergraduate,3,2021,6
+IT017,Social Sciences Research,Literature,2003,Faculty,4,2021,2
+IT017,Social Sciences Research,Literature,2003,Undergraduate,5,2021,5
+IT017,Social Sciences Research,Literature,2003,Undergraduate,6,2021,3
+IT017,Social Sciences Research,Literature,2003,Graduate,7,2021,0
+IT017,Social Sciences Research,Literature,2003,Graduate,8,2021,1
+IT017,Social Sciences Research,Literature,2003,Graduate,9,2021,7
+IT017,Social Sciences Research,Literature,2003,Undergraduate,10,2021,7
+IT017,Social Sciences Research,Literature,2003,Graduate,11,2021,2
+IT017,Social Sciences Research,Literature,2003,Community,12,2021,14
+IT017,Social Sciences Research,Literature,2003,Undergraduate,1,2022,5
+IT017,Social Sciences Research,Literature,2003,Graduate,2,2022,10
+IT017,Social Sciences Research,Literature,2003,Undergraduate,3,2022,3
+IT017,Social Sciences Research,Literature,2003,Undergraduate,4,2022,9
+IT017,Social Sciences Research,Literature,2003,Undergraduate,5,2022,11
+IT017,Social Sciences Research,Literature,2003,Graduate,6,2022,8
+IT017,Social Sciences Research,Literature,2003,Faculty,7,2022,4
+IT017,Social Sciences Research,Literature,2003,Community,8,2022,5
+IT017,Social Sciences Research,Literature,2003,Graduate,9,2022,3
+IT017,Social Sciences Research,Literature,2003,Faculty,10,2022,2
+IT017,Social Sciences Research,Literature,2003,Graduate,11,2022,6
+IT017,Social Sciences Research,Literature,2003,Graduate,12,2022,11
+IT018,Scientific Communication,Social Sciences,2007,Graduate,1,2018,11
+IT018,Scientific Communication,Social Sciences,2007,Faculty,2,2018,2
+IT018,Scientific Communication,Social Sciences,2007,Undergraduate,3,2018,7
+IT018,Scientific Communication,Social Sciences,2007,Community,4,2018,5
+IT018,Scientific Communication,Social Sciences,2007,Undergraduate,5,2018,5
+IT018,Scientific Communication,Social Sciences,2007,Graduate,6,2018,7
+IT018,Scientific Communication,Social Sciences,2007,Undergraduate,7,2018,7
+IT018,Scientific Communication,Social Sciences,2007,Undergraduate,8,2018,7
+IT018,Scientific Communication,Social Sciences,2007,Graduate,9,2018,5
+IT018,Scientific Communication,Social Sciences,2007,Graduate,10,2018,10
+IT018,Scientific Communication,Social Sciences,2007,Undergraduate,11,2018,8
+IT018,Scientific Communication,Social Sciences,2007,Undergraduate,12,2018,5
+IT018,Scientific Communication,Social Sciences,2007,Undergraduate,1,2019,5
+IT018,Scientific Communication,Social Sciences,2007,Undergraduate,2,2019,4
+IT018,Scientific Communication,Social Sciences,2007,Graduate,3,2019,13
+IT018,Scientific Communication,Social Sciences,2007,Graduate,4,2019,11
+IT018,Scientific Communication,Social Sciences,2007,Graduate,5,2019,7
+IT018,Scientific Communication,Social Sciences,2007,Undergraduate,6,2019,4
+IT018,Scientific Communication,Social Sciences,2007,Graduate,7,2019,5
+IT018,Scientific Communication,Social Sciences,2007,Graduate,8,2019,5
+IT018,Scientific Communication,Social Sciences,2007,Undergraduate,9,2019,5
+IT018,Scientific Communication,Social Sciences,2007,Community,10,2019,4
+IT018,Scientific Communication,Social Sciences,2007,Undergraduate,11,2019,9
+IT018,Scientific Communication,Social Sciences,2007,Undergraduate,12,2019,10
+IT018,Scientific Communication,Social Sciences,2007,Undergraduate,1,2020,3
+IT018,Scientific Communication,Social Sciences,2007,Undergraduate,2,2020,9
+IT018,Scientific Communication,Social Sciences,2007,Faculty,3,2020,2
+IT018,Scientific Communication,Social Sciences,2007,Faculty,4,2020,5
+IT018,Scientific Communication,Social Sciences,2007,Faculty,5,2020,3
+IT018,Scientific Communication,Social Sciences,2007,Community,6,2020,6
+IT018,Scientific Communication,Social Sciences,2007,Faculty,7,2020,0
+IT018,Scientific Communication,Social Sciences,2007,Faculty,8,2020,6
+IT018,Scientific Communication,Social Sciences,2007,Graduate,9,2020,8
+IT018,Scientific Communication,Social Sciences,2007,Undergraduate,10,2020,11
+IT018,Scientific Communication,Social Sciences,2007,Undergraduate,11,2020,2
+IT018,Scientific Communication,Social Sciences,2007,Graduate,12,2020,2
+IT018,Scientific Communication,Social Sciences,2007,Graduate,1,2021,14
+IT018,Scientific Communication,Social Sciences,2007,Undergraduate,2,2021,3
+IT018,Scientific Communication,Social Sciences,2007,Community,3,2021,8
+IT018,Scientific Communication,Social Sciences,2007,Undergraduate,4,2021,3
+IT018,Scientific Communication,Social Sciences,2007,Graduate,5,2021,3
+IT018,Scientific Communication,Social Sciences,2007,Undergraduate,6,2021,4
+IT018,Scientific Communication,Social Sciences,2007,Undergraduate,7,2021,5
+IT018,Scientific Communication,Social Sciences,2007,Undergraduate,8,2021,5
+IT018,Scientific Communication,Social Sciences,2007,Graduate,9,2021,8
+IT018,Scientific Communication,Social Sciences,2007,Faculty,10,2021,5
+IT018,Scientific Communication,Social Sciences,2007,Graduate,11,2021,5
+IT018,Scientific Communication,Social Sciences,2007,Faculty,12,2021,6
+IT018,Scientific Communication,Social Sciences,2007,Graduate,1,2022,3
+IT018,Scientific Communication,Social Sciences,2007,Community,2,2022,7
+IT018,Scientific Communication,Social Sciences,2007,Graduate,3,2022,12
+IT018,Scientific Communication,Social Sciences,2007,Faculty,4,2022,2
+IT018,Scientific Communication,Social Sciences,2007,Community,5,2022,11
+IT018,Scientific Communication,Social Sciences,2007,Undergraduate,6,2022,4
+IT018,Scientific Communication,Social Sciences,2007,Undergraduate,7,2022,3
+IT018,Scientific Communication,Social Sciences,2007,Undergraduate,8,2022,3
+IT018,Scientific Communication,Social Sciences,2007,Faculty,9,2022,5
+IT018,Scientific Communication,Social Sciences,2007,Undergraduate,10,2022,9
+IT018,Scientific Communication,Social Sciences,2007,Graduate,11,2022,14
+IT018,Scientific Communication,Social Sciences,2007,Undergraduate,12,2022,5
+IT019,Literature and Information,Social Sciences,2014,Graduate,1,2018,10
+IT019,Literature and Information,Social Sciences,2014,Undergraduate,2,2018,14
+IT019,Literature and Information,Social Sciences,2014,Faculty,3,2018,3
+IT019,Literature and Information,Social Sciences,2014,Undergraduate,4,2018,4
+IT019,Literature and Information,Social Sciences,2014,Faculty,5,2018,6
+IT019,Literature and Information,Social Sciences,2014,Community,6,2018,2
+IT019,Literature and Information,Social Sciences,2014,Undergraduate,7,2018,8
+IT019,Literature and Information,Social Sciences,2014,Undergraduate,8,2018,2
+IT019,Literature and Information,Social Sciences,2014,Undergraduate,9,2018,1
+IT019,Literature and Information,Social Sciences,2014,Faculty,10,2018,4
+IT019,Literature and Information,Social Sciences,2014,Undergraduate,11,2018,2
+IT019,Literature and Information,Social Sciences,2014,Graduate,12,2018,8
+IT019,Literature and Information,Social Sciences,2014,Undergraduate,1,2019,6
+IT019,Literature and Information,Social Sciences,2014,Graduate,2,2019,3
+IT019,Literature and Information,Social Sciences,2014,Undergraduate,3,2019,12
+IT019,Literature and Information,Social Sciences,2014,Graduate,4,2019,7
+IT019,Literature and Information,Social Sciences,2014,Graduate,5,2019,12
+IT019,Literature and Information,Social Sciences,2014,Graduate,6,2019,5
+IT019,Literature and Information,Social Sciences,2014,Undergraduate,7,2019,6
+IT019,Literature and Information,Social Sciences,2014,Graduate,8,2019,3
+IT019,Literature and Information,Social Sciences,2014,Undergraduate,9,2019,4
+IT019,Literature and Information,Social Sciences,2014,Community,10,2019,13
+IT019,Literature and Information,Social Sciences,2014,Undergraduate,11,2019,1
+IT019,Literature and Information,Social Sciences,2014,Undergraduate,12,2019,3
+IT019,Literature and Information,Social Sciences,2014,Undergraduate,1,2020,8
+IT019,Literature and Information,Social Sciences,2014,Undergraduate,2,2020,5
+IT019,Literature and Information,Social Sciences,2014,Graduate,3,2020,2
+IT019,Literature and Information,Social Sciences,2014,Graduate,4,2020,14
+IT019,Literature and Information,Social Sciences,2014,Community,5,2020,11
+IT019,Literature and Information,Social Sciences,2014,Undergraduate,6,2020,4
+IT019,Literature and Information,Social Sciences,2014,Graduate,7,2020,7
+IT019,Literature and Information,Social Sciences,2014,Undergraduate,8,2020,1
+IT019,Literature and Information,Social Sciences,2014,Graduate,9,2020,9
+IT019,Literature and Information,Social Sciences,2014,Graduate,10,2020,10
+IT019,Literature and Information,Social Sciences,2014,Undergraduate,11,2020,4
+IT019,Literature and Information,Social Sciences,2014,Graduate,12,2020,6
+IT019,Literature and Information,Social Sciences,2014,Graduate,1,2021,7
+IT019,Literature and Information,Social Sciences,2014,Undergraduate,2,2021,8
+IT019,Literature and Information,Social Sciences,2014,Undergraduate,3,2021,8
+IT019,Literature and Information,Social Sciences,2014,Undergraduate,4,2021,11
+IT019,Literature and Information,Social Sciences,2014,Community,5,2021,3
+IT019,Literature and Information,Social Sciences,2014,Faculty,6,2021,3
+IT019,Literature and Information,Social Sciences,2014,Undergraduate,7,2021,6
+IT019,Literature and Information,Social Sciences,2014,Community,8,2021,6
+IT019,Literature and Information,Social Sciences,2014,Undergraduate,9,2021,4
+IT019,Literature and Information,Social Sciences,2014,Faculty,10,2021,3
+IT019,Literature and Information,Social Sciences,2014,Undergraduate,11,2021,10
+IT019,Literature and Information,Social Sciences,2014,Graduate,12,2021,4
+IT019,Literature and Information,Social Sciences,2014,Graduate,1,2022,10
+IT019,Literature and Information,Social Sciences,2014,Faculty,2,2022,12
+IT019,Literature and Information,Social Sciences,2014,Undergraduate,3,2022,10
+IT019,Literature and Information,Social Sciences,2014,Undergraduate,4,2022,6
+IT019,Literature and Information,Social Sciences,2014,Community,5,2022,2
+IT019,Literature and Information,Social Sciences,2014,Undergraduate,6,2022,2
+IT019,Literature and Information,Social Sciences,2014,Undergraduate,7,2022,5
+IT019,Literature and Information,Social Sciences,2014,Community,8,2022,7
+IT019,Literature and Information,Social Sciences,2014,Community,9,2022,4
+IT019,Literature and Information,Social Sciences,2014,Undergraduate,10,2022,10
+IT019,Literature and Information,Social Sciences,2014,Community,11,2022,12
+IT019,Literature and Information,Social Sciences,2014,Graduate,12,2022,4
+IT020,Community Information Services,Social Sciences,2016,Undergraduate,1,2018,2
+IT020,Community Information Services,Social Sciences,2016,Faculty,2,2018,11
+IT020,Community Information Services,Social Sciences,2016,Undergraduate,3,2018,5
+IT020,Community Information Services,Social Sciences,2016,Undergraduate,4,2018,5
+IT020,Community Information Services,Social Sciences,2016,Faculty,5,2018,8
+IT020,Community Information Services,Social Sciences,2016,Undergraduate,6,2018,4
+IT020,Community Information Services,Social Sciences,2016,Undergraduate,7,2018,4
+IT020,Community Information Services,Social Sciences,2016,Graduate,8,2018,6
+IT020,Community Information Services,Social Sciences,2016,Faculty,9,2018,4
+IT020,Community Information Services,Social Sciences,2016,Undergraduate,10,2018,3
+IT020,Community Information Services,Social Sciences,2016,Graduate,11,2018,2
+IT020,Community Information Services,Social Sciences,2016,Graduate,12,2018,8
+IT020,Community Information Services,Social Sciences,2016,Faculty,1,2019,2
+IT020,Community Information Services,Social Sciences,2016,Undergraduate,2,2019,2
+IT020,Community Information Services,Social Sciences,2016,Faculty,3,2019,9
+IT020,Community Information Services,Social Sciences,2016,Undergraduate,4,2019,9
+IT020,Community Information Services,Social Sciences,2016,Faculty,5,2019,10
+IT020,Community Information Services,Social Sciences,2016,Undergraduate,6,2019,6
+IT020,Community Information Services,Social Sciences,2016,Faculty,7,2019,3
+IT020,Community Information Services,Social Sciences,2016,Undergraduate,8,2019,3
+IT020,Community Information Services,Social Sciences,2016,Community,9,2019,11
+IT020,Community Information Services,Social Sciences,2016,Undergraduate,10,2019,13
+IT020,Community Information Services,Social Sciences,2016,Undergraduate,11,2019,11
+IT020,Community Information Services,Social Sciences,2016,Undergraduate,12,2019,11
+IT020,Community Information Services,Social Sciences,2016,Graduate,1,2020,3
+IT020,Community Information Services,Social Sciences,2016,Faculty,2,2020,9
+IT020,Community Information Services,Social Sciences,2016,Undergraduate,3,2020,10
+IT020,Community Information Services,Social Sciences,2016,Undergraduate,4,2020,2
+IT020,Community Information Services,Social Sciences,2016,Undergraduate,5,2020,1
+IT020,Community Information Services,Social Sciences,2016,Undergraduate,6,2020,8
+IT020,Community Information Services,Social Sciences,2016,Faculty,7,2020,2
+IT020,Community Information Services,Social Sciences,2016,Undergraduate,8,2020,4
+IT020,Community Information Services,Social Sciences,2016,Undergraduate,9,2020,7
+IT020,Community Information Services,Social Sciences,2016,Undergraduate,10,2020,8
+IT020,Community Information Services,Social Sciences,2016,Undergraduate,11,2020,8
+IT020,Community Information Services,Social Sciences,2016,Undergraduate,12,2020,8
+IT020,Community Information Services,Social Sciences,2016,Undergraduate,1,2021,11
+IT020,Community Information Services,Social Sciences,2016,Graduate,2,2021,5
+IT020,Community Information Services,Social Sciences,2016,Undergraduate,3,2021,11
+IT020,Community Information Services,Social Sciences,2016,Undergraduate,4,2021,10
+IT020,Community Information Services,Social Sciences,2016,Faculty,5,2021,7
+IT020,Community Information Services,Social Sciences,2016,Undergraduate,6,2021,8
+IT020,Community Information Services,Social Sciences,2016,Graduate,7,2021,3
+IT020,Community Information Services,Social Sciences,2016,Graduate,8,2021,6
+IT020,Community Information Services,Social Sciences,2016,Undergraduate,9,2021,10
+IT020,Community Information Services,Social Sciences,2016,Community,10,2021,11
+IT020,Community Information Services,Social Sciences,2016,Graduate,11,2021,12
+IT020,Community Information Services,Social Sciences,2016,Community,12,2021,8
+IT020,Community Information Services,Social Sciences,2016,Undergraduate,1,2022,2
+IT020,Community Information Services,Social Sciences,2016,Graduate,2,2022,2
+IT020,Community Information Services,Social Sciences,2016,Undergraduate,3,2022,5
+IT020,Community Information Services,Social Sciences,2016,Undergraduate,4,2022,6
+IT020,Community Information Services,Social Sciences,2016,Graduate,5,2022,7
+IT020,Community Information Services,Social Sciences,2016,Graduate,6,2022,5
+IT020,Community Information Services,Social Sciences,2016,Undergraduate,7,2022,4
+IT020,Community Information Services,Social Sciences,2016,Graduate,8,2022,3
+IT020,Community Information Services,Social Sciences,2016,Undergraduate,9,2022,12
+IT020,Community Information Services,Social Sciences,2016,Undergraduate,10,2022,4
+IT020,Community Information Services,Social Sciences,2016,Graduate,11,2022,4
+IT020,Community Information Services,Social Sciences,2016,Faculty,12,2022,11
