@@ -2,10 +2,7 @@
 
 **Library Statistics Analysis and Visualization**
 
-libinsight is a package that provides R code for working with statistics of
-academic libraries. libinsight offers an S3 class, seven functions, and a
-built-in example data set.
-
+libinsight is an R package for analyzing and visualizing academic library circulation data. It provides an S3 class (`libdata`), eight exported functions for analysis and reporting, and a built-in example dataset for demonstration and testing.
 ---
 
 ## Installation
@@ -42,7 +39,7 @@ devtools::install_github("sahlmohammedwork-commits/libinsight")
 ```r
 library(libinsight)
 
-# Load the built-in sample dataset (1,200 records, 5 years)
+# Load the built-in sample dataset (480 records, 5 years)
 data(circ_sample)
 
 # Create an S3 libdata object
@@ -76,7 +73,7 @@ lib_report(ld, title = "My Library Annual Report")
 ## Sample Data
 
 The package includes a fictitious dataset named `circ_sample` consisting of
-1,200 circulation records for a fictional university library in 2018-2022.
+480 circulation records for a fictional university library in 2018-2022.
 It contains 20 items across 6 subjects and 4 user categories (Undergraduate,
 Graduate, Faculty, Community).
 
