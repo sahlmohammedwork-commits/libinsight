@@ -1,0 +1,173 @@
+---
+title: "libinsight – Function Reference and Implementation Notes"
+author: "Sahl Mohammed"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, eval = FALSE)
+```
+
+## Overview
+
+This document contains information about the functions implemented in the
+package libinsight, the reason for designing each function in the way it is,
+and their relationship to one another. This document is stored in the `man/`
+directory along with other documentation files in `.Rd` format.
+
+---
+
+## S3 Class: `libdata`
+
+### What it does
+
+`libdata()` wraps a plain data frame in an S3 class so that every other
+function in the package can accept either a raw data frame or a `libdata`
+object without duplicating validation logic.
+
+```r
+ld <- libdata(circ_sample)
+class(ld)  # "libdata"
+```
+
+### Why S3 instead of S4
+
+S3 was chosen because it is lightweight and sufficient for this use case.
+The class only needs to carry one piece of state (the validated data frame)
+and dispatch three methods. S4 would add overhead without benefit here.
+
+### Methods
+
+| Method | Behavior |
+|---|---|
+| `print.libdata` | Shows row count, unique items, subjects, patron types, year range, total checkouts |
+| `summary.libdata` | Returns and prints monthly stats, subject counts, patron counts |
+| `plot.libdata` | Bar chart of total checkouts grouped by subject |
+
+---
+
+## Function 1: `summarize_circulation()`
+
+Computes total, mean, median, min, and max checkouts across monthly aggregates,
+plus the calendar month and year with peak usage.
+
+```r
+summarize_circulation(ld)
+summarize_circulation(ld, year_from = 2020, year_to = 2022)
+```
+
+**Implementation note:** The monthly aggregation calculations have been done
+using `tapply()`, not `dplyr::summarize()`, since the summary itself should be
+independent of any long chain; it is only arithmetic operations on groups
+within a vector.
+
+---
+
+## Function 2: `plot_circ_trend()`
+
+Draws a line chart of checkout volume over time. The `by` argument switches
+between month-level and year-level aggregation.
+
+```r
+plot_circ_trend(ld)              # monthly
+plot_circ_trend(ld, by = "year") # annual
+```
+
+**Implementation note:** In case of using `"month"` as the value of the
+variable `by`, the values for the x-axis will be represented by a fraction
+of the year (`year + (month - 1) / 12`).
+
+---
+
+## Function 3: `top_items()`
+
+Returns the top-N items ranked by total checkouts. Optional `subject` and
+`patron_type` arguments filter before ranking, which lets you answer questions
+like "what do Graduate students check out most?"
+
+```r
+top_items(ld, n = 10)
+top_items(ld, n = 5, subject = "Technology")
+top_items(ld, n = 5, patron_type = "Graduate")
+```
+
+---
+
+## Function 4: `patron_stats()`
+
+Groups checkouts by patron type, computes totals and percentage share, and
+plots a horizontal bar chart with percentage labels.
+
+```r
+patron_stats(ld)
+patron_stats(ld, plot = FALSE)  # data only
+```
+
+**Implementation note:** The `plot` argument defaults to `TRUE` so the chart
+appears automatically in interactive use, but can be suppressed when calling
+`patron_stats()` from inside `lib_report()` to avoid duplicate output.
+
+---
+
+## Function 5: `collection_age()`
+
+Draws a histogram of publication years weighted by checkout count. Items that
+circulate more contribute more to the histogram, so the result reflects actual
+usage patterns rather than just how many titles from each year are held.
+
+```r
+collection_age(ld)
+collection_age(ld, binwidth = 10, fill = "#984EA3")
+```
+
+A dashed vertical line marks the checkout-weighted median publication year.
+
+---
+
+## Function 6: `lib_heatmap()`
+
+Produces a tile heatmap with months on the x-axis and patron types on the
+y-axis. Color intensity encodes total checkouts, making it easy to spot
+which patron groups drive demand in specific months.
+
+```r
+lib_heatmap(ld)
+lib_heatmap(ld, low = "#f7fbff", high = "#08306b")
+```
+
+---
+
+## Function 7: `lib_report()`
+
+Calls `summarize_circulation()`, `patron_stats()`, and `top_items()` in
+sequence and formats their output as a plain-text console report with a
+title and timestamp. Useful for quick one-call reporting.
+
+```r
+lib_report(ld, title = "Annual Report 2022", top_n = 10)
+```
+
+---
+
+## Sample Dataset: `circ_sample`
+
+`circ_sample` is an artificial dataset with 1,200 observations for 20 books,
+6 subjects, 4 user categories, and 5 borrowing years (from 2018 to 2022).
+Borrowing numbers are adjusted by a seasonal factor so that academic semesters
+(January to May, September to December) have increased borrowing frequency —
+creating a more interesting heatmap and trend plot using sample data.
+
+The raw file can be found at `inst/extdata/circ_sample.csv`. The `data-raw`
+directory holds the R code for creating the `.rda` file.
+
+---
+
+## Dependencies
+
+| Package | Why it is used |
+|---|---|
+| `ggplot2` | All visualizations (trend, heatmap, histogram, bar charts) |
+| `dplyr` | Grouped aggregation inside plot and stat functions |
+| `stats` | `median()` in `summarize_circulation()` and `collection_age()` |
+| `utils` | `head()` in `top_items()` |

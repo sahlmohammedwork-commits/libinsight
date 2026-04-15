@@ -5,6 +5,27 @@
 libinsight is an R package for analyzing and visualizing academic library circulation data. It provides an S3 class (`libdata`), eight exported functions for analysis and reporting, and a built-in example dataset for demonstration and testing.
 ---
 
+## About This Project
+
+LIS 4370 Library Statistics was a package developed by me due to a very common
+issue that is prevalent in all LIS-related classes, where there isn't enough
+available R packages related to the area. Typically, most data is entered into
+Excel sheets without being ever analyzed. The purpose behind this project is to
+allow for fast transition from a circulation data CSV file to an insightful
+report and several graphs using only several lines of code.
+
+My included dataset (`circ_sample`) is fabricated but realistic in nature since
+it reflects seasonality of checkout numbers during semesters. This will make
+functions like trend and heatmap more interesting to observe.
+
+S3 rather than S4 class system was used because only one object (`libdata`)
+needed to be made and three methods written (print, summary, plot). It would be
+too much trouble for such a simple task, and S3 is more elegant and readable.
+Function `lib_report()` proved to be the most useful in practice; one line
+generating a nicely formatted report sounds efficient and practical.
+
+---
+
 ## Installation
 
 Install from GitHub using devtools:
@@ -85,6 +106,18 @@ head(circ_sample)
 #>   checkout_month checkout_year checkouts
 #> 1              1          2018         9
 ```
+
+---
+
+## AI Disclosure
+
+AI (Claude by Anthropic) was used during this project primarily for two
+purposes: debugging R code when errors came up during development, and learning
+the terminal commands needed to initialize and push the package to GitHub.
+The core ideas behind the package, the topic, the functions, the dataset
+design, and the structure, were my own decisions. AI served as a reference
+tool, similar to how one might use Stack Overflow or the R documentation,
+rather than as a generator of the project itself.
 
 ---
 
